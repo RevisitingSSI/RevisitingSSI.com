@@ -1,0 +1,48 @@
+# Site Metadata
+title: "Revisiting SSI"
+description: "Workshops focused on addressing harms and opportunities overlooked by mainstream Self-Sovereign Identity"
+author: "Christopher Allen"
+email: "ChristopherA@LifeWithAlacrity.com"
+url: "https://RevisitingSSI.com"
+baseurl: ""
+
+# Remote Theme
+remote_theme: ChristopherA/BaseTheme@main
+
+# Required Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+
+# Markdown Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# SEO and Social
+twitter:
+  username: ChristopherA
+  card: summary
+
+social:
+  name: Christopher Allen
+  links:
+    - https://twitter.com/ChristopherA
+    - https://github.com/ChristopherA
+    - https://github.com/RevistingSSI
+
+# Build Settings
+permalink: /:title/
+timezone: America/Los_Angeles
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
