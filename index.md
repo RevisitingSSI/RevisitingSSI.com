@@ -1,4 +1,6 @@
-# #RevisitingSSI
+---
+title: "#RevisitingSSI"
+---
 
 Welcome to the **Revisiting Self-Sovereign Identity (SSI) Principles** series of online workshops.
 
