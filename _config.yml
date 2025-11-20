@@ -3,8 +3,8 @@ title: "Revisiting SSI"
 description: "Workshops focused on addressing harms and opportunities overlooked by mainstream Self-Sovereign Identity"
 author: "Christopher Allen"
 email: "ChristopherA@LifeWithAlacrity.com"
-url: "https://RevisitingSSI.com"
-baseurl: ""
+url: "https://revisitingssi.github.io"
+baseurl: "/RevisitingSSI.com"
 
 # Remote Theme
 remote_theme: ChristopherA/BaseTheme@main
@@ -34,7 +34,7 @@ social:
   links:
     - https://twitter.com/ChristopherA
     - https://github.com/ChristopherA
-    - https://github.com/RevistingSSI
+    - https://github.com/RevisitingSSI
 
 # Build Settings
 permalink: /:title/
