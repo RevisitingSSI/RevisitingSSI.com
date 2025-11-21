@@ -1,5 +1,5 @@
 ---
-title: "Self-Sovereign Identity<br/>Ten Years Later: Time to Reassess"
+title: "Self-Sovereign Identity:<br/>Ten Years Later, a Time to Reassess"
 ---
 
 Welcome to the **Revisiting Self-Sovereign Identity (SSI) Principles** series of online workshops.
