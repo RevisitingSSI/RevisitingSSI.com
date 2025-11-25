@@ -67,9 +67,8 @@ defaults:
       classes:
         - wide
       header:
-        overlay_image: /assets/images/rss-header.jpg
+        overlay_image: /assets/images/rssi-header.jpg
         overlay_filter: rgba(255, 0, 0, 1)
-        caption: "Photo credit: [Earth's City Lights: NASA](https://visibleearth.nasa.gov/images/55167/earths-city-lights)"
 
 # Build Settings
 permalink: /:title/
