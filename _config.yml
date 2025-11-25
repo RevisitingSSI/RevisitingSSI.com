@@ -17,6 +17,11 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-default-layout
 
+# Collections
+collections:
+  pages:
+    output: true
+
 # Markdown Settings
 markdown: kramdown
 kramdown:
