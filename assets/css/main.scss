@@ -1,0 +1,33 @@
+---
+# Main SCSS - Custom styles for RevisitingSSI
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// Custom styling for RevisitingSSI
+
+// Page subtitle styling
+.page__subtitle {
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+// Notice box sizing
+.notice--info {
+  font-size: .9em !important;
+}
+
+// Horizontal rule styling
+hr {
+  background-color: #3d4144;
+  height: 1px;
+  border: 0;
+}
+
+// Layout width
+$max-width: 90%;

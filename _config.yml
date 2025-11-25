@@ -1,21 +1,24 @@
 # Site Metadata
 title: "#RevisitingSSI"
+subtitle: "Revisiting Self-Sovereign Identity"
 description: "Workshops focused on addressing harms and opportunities overlooked by mainstream Self-Sovereign Identity"
-author: "Christopher Allen"
+name: "Christopher Allen"
 email: "ChristopherA@LifeWithAlacrity.com"
 url: "https://RevisitingSSI.com"
 baseurl: ""
+repository: "RevisitingSSI/RevisitingSSI.com"
 
 # Remote Theme
-remote_theme: ChristopherA/BaseTheme@main
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 
 # Required Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-titles-from-headings
-  - jekyll-default-layout
+  - jekyll-include-cache
+  - jekyll-feed
 
 # Collections
 collections:
@@ -29,17 +32,38 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
-# SEO and Social
-twitter:
-  username: ChristopherA
-  card: summary
-
-social:
-  name: Christopher Allen
+# Author
+author:
+  name: "Christopher Allen"
+  avatar: "/assets/images/ChristopherA-avatar.png"
+  bio: "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
+  location: "SF East Bay, California, USA"
   links:
-    - https://twitter.com/ChristopherA
-    - https://github.com/ChristopherA
-    - https://github.com/RevisitingSSI
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ChristopherA"
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.lifewithalacrity.com"
+
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RevisitingSSI"
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes:
+        - wide
 
 # Build Settings
 permalink: /:title/
