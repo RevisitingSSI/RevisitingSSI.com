@@ -9,6 +9,8 @@ date: 2025-11-25
 
 ## Cryptographic Paradigms: When Today's Assumptions Become Tomorrow's Constraints
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/6)**
+
 > **Technology must serve principles—not vice versa.**
 
 #### **1. Territory / Focus Summary**

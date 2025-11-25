@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Relational Autonomy
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/11)**
+
 > **Identity Through Voluntary Association, Mutual Vulnerability, and Exit Rights**
 
 #### **1. Territory / Focus Summary**

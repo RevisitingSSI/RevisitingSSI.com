@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Self-Coercion & Manufactured Consent: When External Pressure Becomes Internal Compliance
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/8)**
+
 #### **1. Territory / Focus Summary**
 
 **Core Insight**: Government mandates are visible coercion. Platform requirements are visible coercion. Dark patterns manipulating interface choices are visible coercion—you can see the manipulation even if you can't always resist it. 

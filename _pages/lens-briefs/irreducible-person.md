@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## The Irreducible Person: Witnessing Existence, Not Granting It
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/3)**
+
 > **SSI's Last Line of Defense: Why Dignity Must Precede Data**
 
 #### **1. Territory / Focus Summary**

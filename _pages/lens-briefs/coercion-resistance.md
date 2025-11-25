@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Coercion Resistance as a Foundational Orientation for SSI
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/7)**
+
 #### **1. Territory / Focus Summary**
 
 **Core Insight**: Privacy is not the ultimate goal of Self-Sovereign Identity—it is the shield. The deeper purpose is **protecting people from coercion**. Privacy protections prevent visibility; coercion resistance ensures autonomy even when visible. You might share credentials openly yet remain free from manipulation, dependency, or manufactured consent. Digital identity can empower—but it can also control. Coercion arises when systems leave us no real choice: when you must share data to get a job, accept terms you don’t understand, or enroll biometrics to receive food or medicine.

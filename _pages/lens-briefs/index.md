@@ -11,7 +11,7 @@ date: 2025-11-24
 
 **Lens Exploration Briefs** examine self-sovereign identity through diverse conceptual, ethical, legal, and technical perspectives. Each lens reveals a distinct dimension of the problem space—surfacing harms, exploring tensions, identifying blind spots, and proposing constructive directions.
 
-**15 lenses across 4 categories** | Phase 1 drafts (December 2025 - January 2026)
+**15 lenses across 4 categories** | Phase 1 drafts (December 2025 - January 2026) | [Join the discussions](https://github.com/RevisitingSSI/Community/discussions/categories/lens-discussions)
 
 These are **early drafts seeking primary authors**—not final positions. Each brief includes open questions inviting dialogue, and many reference and build upon other lenses. We're looking for contributors to develop these lenses through Working Circles, with selected briefs becoming peer-reviewed papers during Phase 2, informing the 10-year SSI Principles revision in April 2026.
 
@@ -21,41 +21,41 @@ These are **early drafts seeking primary authors**—not final positions. Each b
 
 ### Foundational Principles & Rights
 
-**[The Irreducible Person](./irreducible-person/):** You exist—no system needs to grant that, and none should take it away. This lens examines the operational paradox: some aspects of personhood (dignity, existence, cognitive liberty) lose their protective meaning the moment we try to measure them.
+**[The Irreducible Person](./irreducible-person/):** You exist—no system needs to grant that, and none should take it away. This lens examines the operational paradox: some aspects of personhood (dignity, existence, cognitive liberty) lose their protective meaning the moment we try to measure them. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/3)
 
-**[Anti-Property](./anti-property/):** When we talk about "owning our data," we risk turning ourselves into products. This lens examines why property law fails for identity—you can't sell yourself like you sell a car—and proposes agency-based alternatives where delegation creates duties, not markets.
+**[Anti-Property](./anti-property/):** When we talk about "owning our data," we risk turning ourselves into products. This lens examines why property law fails for identity—you can't sell yourself like you sell a car—and proposes agency-based alternatives where delegation creates duties, not markets. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/4)
 
-**[Right to Transact](./right-to-transact/):** If you can be prevented from participating, none of the other principles matter. This lens grounds SSI in constitutional rights—free assembly, free association, peer-to-peer exchange—and warns that de-platforming from dominant wallets means losing not just a service, but your operational identity.
+**[Right to Transact](./right-to-transact/):** If you can be prevented from participating, none of the other principles matter. This lens grounds SSI in constitutional rights—free assembly, free association, peer-to-peer exchange—and warns that de-platforming from dominant wallets means losing not just a service, but your operational identity. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/5)
 
-**[Cryptographic Paradigms](./cryptographic-paradigms/):** PKI assumptions have constrained digital identity for 36 years. This lens asks what paradigm assumptions we're embedding now that will limit what SSI can become—and how to write principles that enable future capabilities we haven't yet invented.
+**[Cryptographic Paradigms](./cryptographic-paradigms/):** PKI assumptions have constrained digital identity for 36 years. This lens asks what paradigm assumptions we're embedding now that will limit what SSI can become—and how to write principles that enable future capabilities we haven't yet invented. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/6)
 
 ### Preventing Coercion
 
-**[Coercion Resistance](./coercion-resistance/):** Privacy is the shield, but coercion resistance is the goal. This meta-lens coordinates four dimensions of manipulation: dark patterns that exploit cognitive limits, profiling that infers what you never disclosed, structural lock-in that traps you, and internalized surveillance that makes you police yourself.
+**[Coercion Resistance](./coercion-resistance/):** Privacy is the shield, but coercion resistance is the goal. This meta-lens coordinates four dimensions of manipulation: dark patterns that exploit cognitive limits, profiling that infers what you never disclosed, structural lock-in that traps you, and internalized surveillance that makes you police yourself. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/7)
 
-**[Self-Coercion](./self-coercion/):** The most effective control is the kind that feels like your own idea. This lens examines invisible coercion—chilling effects, anticipatory compliance, behavioral conformity—harms that persist even with perfect cryptographic privacy because you stop yourself before any rule is enforced.
+**[Self-Coercion](./self-coercion/):** The most effective control is the kind that feels like your own idea. This lens examines invisible coercion—chilling effects, anticipatory compliance, behavioral conformity—harms that persist even with perfect cryptographic privacy because you stop yourself before any rule is enforced. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/8)
 
-**[Choice Architecture & Exit Rights](./choice-architecture/):** Small voluntary decisions accumulate into structural dependency. This lens examines the 18-year trap: credentials stored in proprietary formats, reputation that doesn't transfer, biometrics that can't be revoked—and why reversible design and proportionate exit rights are coercion resistance, not convenience features.
+**[Choice Architecture & Exit Rights](./choice-architecture/):** Small voluntary decisions accumulate into structural dependency. This lens examines the 18-year trap: credentials stored in proprietary formats, reputation that doesn't transfer, biometrics that can't be revoked—and why reversible design and proportionate exit rights are coercion resistance, not convenience features. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/9)
 
-**[Binding Commitments](./binding-commitments/):** Not all lock-in is harmful—Kenyan chamas prove that voluntary constraint enables trust. This lens distinguishes productive commitment (mutual stakes, transparent terms, bounded scope) from exploitative lock-in (asymmetric power, opaque terms, punitive exit), because SSI needs commitment mechanisms, not just escape hatches.
+**[Binding Commitments](./binding-commitments/):** Not all lock-in is harmful—Kenyan chamas prove that voluntary constraint enables trust. This lens distinguishes productive commitment (mutual stakes, transparent terms, bounded scope) from exploitative lock-in (asymmetric power, opaque terms, punitive exit), because SSI needs commitment mechanisms, not just escape hatches. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/10)
 
 ### Relational & Contextual Identity
 
-**[Relational Autonomy](./relational-autonomy/):** Ubuntu teaches "I am because we are"—yet SSI architectures model identity as individual attribute containers. This lens examines what's lost: immigration systems that can't see family bonds, chama membership invisible to credit systems, and how relationship-aware credentials could change both.
+**[Relational Autonomy](./relational-autonomy/):** Ubuntu teaches "I am because we are"—yet SSI architectures model identity as individual attribute containers. This lens examines what's lost: immigration systems that can't see family bonds, chama membership invisible to credit systems, and how relationship-aware credentials could change both. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/11)
 
-**[Context Boundaries & Anti-Correlation](./context-boundaries/):** Your employer shouldn't see your therapy notes; your landlord shouldn't know your political donations. This lens examines context collapse—when separate spheres of life merge through correlation attacks—and proposes unlinkable identifiers that keep your different worlds cryptographically distinct.
+**[Context Boundaries & Anti-Correlation](./context-boundaries/):** Your employer shouldn't see your therapy notes; your landlord shouldn't know your political donations. This lens examines context collapse—when separate spheres of life merge through correlation attacks—and proposes unlinkable identifiers that keep your different worlds cryptographically distinct. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/12)
 
-**[Multi-Scalar Sovereignty](./multi-scalar-sovereignty/):** Sovereignty doesn't stop at the individual—200,000 Kenyan chamas manage $1.7 billion without institutional permission. This lens examines how autonomy operates across persons, communities, and nations, warning against "sovereignty-as-a-service" models that centralize power while claiming to distribute it.
+**[Multi-Scalar Sovereignty](./multi-scalar-sovereignty/):** Sovereignty doesn't stop at the individual—200,000 Kenyan chamas manage $1.7 billion without institutional permission. This lens examines how autonomy operates across persons, communities, and nations, warning against "sovereignty-as-a-service" models that centralize power while claiming to distribute it. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/13)
 
-**[Stewardship](./stewardship/):** When caring for someone else's digital identity—are you empowering or exploiting? This lens examines care relationships (parents, guardians, platforms) where the person being helped had no voice in choosing you, cannot exit, and bears permanent consequences of your decisions.
+**[Stewardship](./stewardship/):** When caring for someone else's digital identity—are you empowering or exploiting? This lens examines care relationships (parents, guardians, platforms) where the person being helped had no voice in choosing you, cannot exit, and bears permanent consequences of your decisions. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/14)
 
 ### Compliance, Governance & Technical Foundations
 
-**[From Principles to Compliance](./principles-to-compliance/):** Not everything important can be measured—but that doesn't mean it can't be verified. This lens develops a three-tier framework: what can be technically tested, what requires regulatory enforcement, and what must remain ethical commitment—because treating all principles as measurable destroys the ones that matter most.
+**[From Principles to Compliance](./principles-to-compliance/):** Not everything important can be measured—but that doesn't mean it can't be verified. This lens develops a three-tier framework: what can be technically tested, what requires regulatory enforcement, and what must remain ethical commitment—because treating all principles as measurable destroys the ones that matter most. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/15)
 
-**[Regulatory Frameworks](./regulatory-framework/):** Legal "voluntary" erodes to practical "mandatory" within years—Estonia, Aadhaar, Ireland prove the pattern. This lens proposes technology-neutral legal structures that enable SSI without mandating it: anti-coercion provisions, platform independence requirements, and recognition without state monopoly.
+**[Regulatory Frameworks](./regulatory-framework/):** Legal "voluntary" erodes to practical "mandatory" within years—Estonia, Aadhaar, Ireland prove the pattern. This lens proposes technology-neutral legal structures that enable SSI without mandating it: anti-coercion provisions, platform independence requirements, and recognition without state monopoly. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/16)
 
-**[Principal Authority](./principal-authority/):** Current platforms violate every duty agents owe principals: they exceed scope, act in their own interest, manipulate through dark patterns, hide what they do, and make exit prohibitively costly. This lens shows how agency law—centuries of established doctrine—can restore accountable delegation to digital identity.
+**[Principal Authority](./principal-authority/):** Current platforms violate every duty agents owe principals: they exceed scope, act in their own interest, manipulate through dark patterns, hide what they do, and make exit prohibitively costly. This lens shows how agency law—centuries of established doctrine—can restore accountable delegation to digital identity. [Discuss on GitHub](https://github.com/RevisitingSSI/Community/discussions/17)
 
 ---
 

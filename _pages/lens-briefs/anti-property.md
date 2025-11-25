@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Anti-Property: Why Property Law Fails as Foundation for Digital Identity
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/4)**
+
 > **Identity Is Not Property to Be Owned, but Personhood Expressed Through Relations**
 
 #### **1. Territory / Focus Summary**

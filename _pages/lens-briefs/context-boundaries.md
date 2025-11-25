@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Context Boundaries & Anti-Correlation: Preventing Unwanted Information Flow
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/12)**
+
 #### **1. Territory / Focus Summary**
 
 **Core Insight**: You can be professional at work, personal with family, activist in organizing, believer in religious community—until the contexts collapse. Privacy violations don't arise from sharing information per se—they arise from information flowing **between contexts where different norms apply**. These aren't deceptions—they're legitimate expressions of multifaceted identity, each appropriate to its relationship domain. Context collapse makes lives totalized rather than contextual—you self-censor toward a lowest-common-denominator identity because anything might be seen everywhere. It happens when your employer sees family photos, your medical provider learns political affiliations, your landlord tracks religious participation. Privacy means information flowing according to contextual norms (Helen Nissenbaum's contextual integrity), not preventing flow entirely. Central requirement: context boundaries must be technically enforced, not merely policy promises.

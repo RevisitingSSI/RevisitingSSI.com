@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Stewardship: Caring for Vulnerable Populations in Digital Identity
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/14)**
+
 > **When Caring for Someone Else's Digital Identity—Are You Empowering or Exploiting Them?**
 
 #### **1. Territory / Focus Summary**

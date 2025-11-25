@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Choice Architecture & Exit Rights: Preventing Lock-In and Enabling Genuine Alternatives
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/9)**
+
 #### **1. Territory / Focus Summary**
 
 **Core Insight**: You chose freely at every step. How did you end up trapped? Structural coercion is the form of influence we rarely see until it’s too late. This lens explores **structural coercion**—how platform lock-in, switching costs, credential dependency chains, and exit penalties transform initially "voluntary" choices into permanent dependencies where leaving becomes impossible or prohibitively costly. Unlike external coercion (mandates) or internalized coercion (self-censorship), structural coercion operates through creating dependency webs where each individual choice appears voluntary but the accumulation eliminates alternatives. The architecture itself eliminates exit as a practical option regardless of technical rights or theoretical freedoms.

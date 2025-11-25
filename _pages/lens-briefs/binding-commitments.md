@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Binding Commitments: The Positive Value of Voluntary Constraint
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/10)**
+
 > **How SSI Enables Credible Commitments Without Exploitative Lock-In**
 
 #### **1. Territory / Focus Summary**

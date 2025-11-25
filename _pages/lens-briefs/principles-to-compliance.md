@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## From Principles to Compliance: What Can Be Verified, What Requires Regulation, What Resists Measurement
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/15)**
+
 > **Translating SSI Principles into Objective Verification, Regulatory Enforcement, and Ethical Assessment**
 
 #### **1. Territory / Focus Summary**

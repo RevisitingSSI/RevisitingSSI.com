@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Multi-Scalar Sovereignty: Preventing "Self-Sovereignty" from Becoming "Sovereignty-as-a-Service"
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/13)**
+
 > **How "Self-Sovereign" Identity Can Avoid the Fate of "Digital Sovereignty"**
 
 #### **1. Territory / Focus Summary**

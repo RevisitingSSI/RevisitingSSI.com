@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Regulatory Frameworks for SSI: Enabling Without Mandating, Protecting Without Controlling
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/16)**
+
 > **Technology-Neutral Legal Structures Supporting Self-Sovereign Identity Ecosystems**
 
 #### **1. Territory / Focus Summary**

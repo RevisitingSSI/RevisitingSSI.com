@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Right to Transact: Constitutional Foundation for SSI Participation
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/5)**
+
 > **Can You Participate Without Platform or Government Permission?**
 
 #### **1. Territory / Focus Summary**

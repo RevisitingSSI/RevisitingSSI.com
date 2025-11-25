@@ -9,6 +9,8 @@ date: 2025-11-24
 
 ## Principal Authority: Formal Delegation and Duty-Bearing Legal Relationships
 
+**[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/17)**
+
 > **When You Delegate Authority, What Enforceable Duties Does the Agent Owe You?**
 
 #### **1. Territory / Focus Summary**
