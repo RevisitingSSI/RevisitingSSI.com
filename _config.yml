@@ -67,8 +67,7 @@ defaults:
       classes:
         - wide
       header:
-        overlay_image: /assets/images/rssi-header.jpg
-        overlay_filter: rgba(255, 0, 0, 1)
+        image: /assets/images/rssi-header.jpg
 
 # Build Settings
 permalink: /:title/
