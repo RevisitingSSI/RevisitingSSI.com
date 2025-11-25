@@ -1,5 +1,8 @@
 ---
-title: "Self-Sovereign Identity:<br/>Ten Years Later, a Time to Reassess"
+title: "Self-Sovereign Identity:<br>Ten Years Later, a Time to Reassess"
+permalink: /
+status: draft
+date: 2025-11-25
 ---
 
 Welcome to the **Revisiting Self-Sovereign Identity (SSI) Principles** series of online workshops.
@@ -13,17 +16,17 @@ The moment is right for us to ask:
 * **What harms or risks have emerged?**
 * **And what must evolve for SSI's next decade?**
 
-This project is a **multi-phase, 1-year-long effort** to reassess, update, and strengthen the [Ten Principles of SSI](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity).
+This project is a **multi-phase, year-long effort** to reassess, update, and strengthen the [Ten Principles of SSI](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity).
 
 ## Phase 1 Goals
 
 Our goals in Phase 1 are to:
 
 - **Map the problem space** through interdisciplinary perspectives
-- **Surface emerging harms, risks, and tensions** in digital identity systems
 - **Explore new lenses** that reveal blind spots or opportunities
-- **Build shared understanding** across diverse backgrounds
 - **Develop brief scoping papers** (Lens Exploration Briefs) that seed deeper research and technical work
+- **Surface emerging harms, risks, and tensions** in digital identity systems
+- **Build shared understanding** across diverse backgrounds
 - **Move toward rough consensus** on worthy insights about the principles
 - **Inform** both an updated set of SSI principles *and* other high-level strategies for reducing societal harms from digital identity systems
 
@@ -87,7 +90,7 @@ To help ensure a shared foundation, we recommend participants read these materia
 
 Christopher Allen is an Internet trust architect, entrepreneur, and long-time advocate for human dignity and autonomy online. He co-authored the IETF **Transport Layer Security (TLS)** standard, helped shape early decentralized identity ecosystems, and authored the first articulation of the *Ten Principles of Self-Sovereign Identity* in 2016.
 
-As the founder and moderator of the **Rebooting the Web of Trust** workshops and the Principal Architect at **Blockchain Commons**, Christopher has spent decades convening interdisciplinary communities to explore decentralized identity, human-centered digital wallets, governance models, rights-preserving infrastructure, and open research.
+Christopher is the founder and moderator of the **Rebooting the Web of Trust** workshops and the Principal Architect at **Blockchain Commons**. He has spent decades convening interdisciplinary communities to explore decentralized identity, human-centered digital wallets, governance models, rights-preserving infrastructure, and open research.
 
 ## Contact
 
