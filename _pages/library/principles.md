@@ -1,7 +1,7 @@
 ---
 title: "Ten Principles of Self-Sovereign Identity"
 tagline: "The Original List from 'The Path to Self-Sovereign Identity'"
-permalink: /library/ssi-principles.md
+permalink: /library/ssi-principles/
 status: draft
 date: 2025-11-26
 ---
