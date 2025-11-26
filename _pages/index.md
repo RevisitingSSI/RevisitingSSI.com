@@ -21,6 +21,8 @@ This project is a **multi-phase, year-long effort** to reassess, update, and str
 
 {% include channels.md %}
 
+See ["Join Us"](/join/) for more information on participation.
+
 ## Phase 1 Goals
 
 Our goals in Phase 1 are to:
