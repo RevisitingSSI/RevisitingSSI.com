@@ -70,6 +70,10 @@ defaults:
           overlay_color: "#000"
           overlay_filter: "0.5"
           overlay_image: /assets/images/rssi-header.jpg
+      sidebar:
+        nav:
+          - reading
+          - othersites
 
 # Build Settings
 permalink: /:title/
