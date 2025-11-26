@@ -1,12 +1,16 @@
 main:
   - title: "Join Us!"
     url: /join/
-  - title: "Lens Briefs"
-    url: /lenses/briefs/
-  - title: "Meetings"
-    url: /meetings/
+  - title: "About"
+    url: /abouts/
   - title: "Principles"
     url: /library/ssi-principles/
+  - title: "Project"
+    url: /project/
+  - title: "Meetings"
+    url: /meetings/
+  - title: "Lenses"
+    url: /lenses/briefs/
 reading:
   - title: "Reading"
     children:
