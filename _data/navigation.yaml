@@ -9,6 +9,8 @@ main:
     url: /project/
   - title: "Meetings"
     url: /meetings/
+  - title: "Working Circles"
+    url: /circles/
   - title: "Lenses"
     url: /lenses/briefs/
 reading:
