@@ -1,5 +1,6 @@
 ---
 title: "Self-Sovereign Identity:<br>Ten Years Later, a Time to Reassess"
+layout: home
 permalink: /
 status: draft
 date: 2025-11-25
