@@ -19,6 +19,16 @@ The moment is right for us to ask:
 
 This project is a **multi-phase, year-long effort** to reassess, update, and strengthen the [Ten Principles of SSI](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity).
 
+## How to Join
+
+Zoom links will be shared **only** through the following channels:
+
+- **Private Signal group:**
+   - [https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a](https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a)
+- **Email announcement list:**
+   - [https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary](https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary)
+
+New participants must join one of these channels to receive meeting invitations. If you cannot attend either kickoff meeting, join the Signal group to connect with Working Circles forming after the meeting. See ["Join Us"](/join/) for more invitation on participation.
 
 ## Phase 1 Goals
 
@@ -35,30 +45,6 @@ Our goals in Phase 1 are to:
 We are **not** writing standards, specifications, protocols, or product designs at this stage. We are instead engaging in *high-level conceptual, ethical, and strategic inquiry*, the groundwork on which principled SSI work must rest.
 
 {% include current-meetings.md %}
-
-## How to Join
-
-Zoom links will be shared **only** through the following channels:
-
-- **Private Signal group:**
-   - [https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a](https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a)
-- **Email announcement list:**
-   - [https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary](https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary)
-
-New participants must join one of these channels to receive meeting invitations. If you cannot attend either kickoff meeting, join the Signal group to connect with Working Circles forming after the meeting. See ["Join Us"](/join/) for more invitation on participation.
-
-## Timeline & Milestones
-
-This initiative unfolds across multiple phases, culminating in publication of revised SSI principles for the **ten-year anniversary** of the original principles (April 26th, 2016):
-
-**Phase 1 (Dec 2025 - Jan 2026)**: Lens Exploration Briefs mapping the problem space and surfacing strategic directions
-
-**Phase 2 (Feb - Mar 2026)**: Development of selected briefs into full papers; deeper research and cross-lens synthesis
-
-**Phase 3 (Apr 2026)**: Drafting revised SSI principles informed by Phase 1-2 work; preparation for **April 28th, 2026 publication** (targeting CoinDesk and other venues)
-
-**Ongoing (May - Dec 2026)**: Finalizing papers for peer review, conference presentations, and broader community engagement
-
 
 ## Who Is Christopher Allen?
 
