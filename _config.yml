@@ -75,6 +75,7 @@ defaults:
           overlay_color: "#000"
           overlay_filter: "0.5"
           overlay_image: /assets/images/rssi-header.jpg
+          show_overlay_excerpt: false
       sidebar:
         nav:
           - reading
