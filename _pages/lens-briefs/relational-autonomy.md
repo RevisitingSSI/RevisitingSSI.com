@@ -93,6 +93,10 @@ These aren't comprehensive solutions—they're provocations for exploration:
 
   > **WHY THIS MATTERS**: Identifies relationship as one of five mental models for identity, explicitly noting Verifiable Credentials architecturally embody presentation + relationship intersection. Shows SSI community accepted relational identity as foundational model in 2020, yet nine years later implementations overwhelmingly built for presentation alone. Demonstrates gap between theory and practice.
 
+* _**Generative Identity — Beyond Self-Sovereignty**_ (2019). _Sheldrake, Philip._ AKASHA Foundation blog. <https://philipsheldrake.com/2019/09/generative-identity-beyond-self-sovereignty/>.
+
+  > **WHY THIS MATTERS**: Introduces co-constitution principle—identity, relationships, and information mutually define each other—making individual "ownership" of relational data conceptually incoherent. Provides theoretical foundation for bilateral consent: statement "X is friends with Y" cannot be owned by either party because it constitutes both identities simultaneously. Also warns that portable reputation systems naturally evolve toward social credit mechanisms through emergent behaviors, supporting relationship-graph surveillance concerns.
+
 * _**The Identity Cycle**_ (2021). _Grigg, Ian._ Best Print Co. Ltd. <https://iang.org/identity_cycle/>.
 
   > **WHY THIS MATTERS**: Demonstrates peer-based identity in small trusted groups (10-30 people) with mutual financial stakes is only model that hasn't failed. Kenyan chamas (200,000+ groups controlling $1.7B, 42% of Kenya's GDP) validate community-based trustworthiness assessment. Essential evidence that community credentials work at scale, institutional gatekeeping not required for trustworthy identity systems.
