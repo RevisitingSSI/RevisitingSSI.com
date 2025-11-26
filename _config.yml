@@ -11,6 +11,7 @@ repository: "RevisitingSSI/RevisitingSSI.com"
 # Remote Theme
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
+search: true
 
 # Required Plugins
 plugins:
