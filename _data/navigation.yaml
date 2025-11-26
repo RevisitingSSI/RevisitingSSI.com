@@ -22,6 +22,11 @@ reading:
       url: https://www.lifewithalacrity.com/article/Principal-Authority/
     - title: "Five Mental Models (PDF)"
       url: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.pdf   
+otherfiles:
+  - title: "Other Files"
+    children:
+    - title: "Code of Conduct"
+      url: /conduct/
 othersites:
   - title: "Other Sites"
     children:
