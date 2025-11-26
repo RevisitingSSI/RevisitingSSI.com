@@ -18,3 +18,6 @@ Beyond the kickoff, we will hold regular community meetings throughout Phase 1:
 Final dates and Zoom links will be shared through Signal and email channels. Working Circles will also meet independently on schedules they determine.
 
 Community meetings will use Zoom with accessibility features available on request. **Transcripts and video recordings** will be provided within a few days after each meeting for those who cannot attend synchronously or need to review discussions.
+
+{% include channels.md %}
+
