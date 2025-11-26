@@ -1,7 +1,7 @@
 ---
 title: "The Revisiting SSI Project"
 tagline: "An Overview of the Phases"
-permalink: /join/
+permalink: /project/
 status: draft
 date: 2025-11-26
 ---
