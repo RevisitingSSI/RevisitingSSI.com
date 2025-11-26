@@ -19,6 +19,7 @@ The moment is right for us to ask:
 
 This project is a **multi-phase, year-long effort** to reassess, update, and strengthen the [Ten Principles of SSI](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity).
 
+
 ## Phase 1 Goals
 
 Our goals in Phase 1 are to:
@@ -44,7 +45,7 @@ Zoom links will be shared **only** through the following channels:
 - **Email announcement list:**
    - [https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary](https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary)
 
-New participants must join one of these channels to receive meeting invitations. If you cannot attend either kickoff meeting, join the Signal group to connect with Working Circles forming after the meeting.
+New participants must join one of these channels to receive meeting invitations. If you cannot attend either kickoff meeting, join the Signal group to connect with Working Circles forming after the meeting. See ["Join Us"](/join/) for more invitation on participation.
 
 ## Timeline & Milestones
 
@@ -58,26 +59,6 @@ This initiative unfolds across multiple phases, culminating in publication of re
 
 **Ongoing (May - Dec 2026)**: Finalizing papers for peer review, conference presentations, and broader community engagement
 
-## Who Should Participate?
-
-This initiative needs diverse perspectives working together. We explicitly seek participants from different disciplines, backgrounds, and roles:
-
-- **Academic & Research Participants**: All outputs are designed as citable scholarly contributions
-- **Developer & Builder Participants**: Your implementation experience grounds principles in reality
-- **Policy, Regulatory & Legal Participants**: Essential perspectives on feasibility and institutional adoption
-- **Advocacy, Community & Lived-Experience Participants**: Irreplaceable knowledge about how identity systems function in practice
-- **Early-Career Researchers & Students**: Fresh perspectives that often bridge gaps between communities
-
-## Recommended Reading
-
-To help ensure a shared foundation, we recommend participants read these materials before the kickoff meetings:
-
-**Estimated total reading time: ~90 minutes**
-
-* [**The Path to Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) (2016) - The foundational article introducing the ten principles
-* [**Musings of a Trust Architect: The Origins of Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/origins-SSI/) (2023) - The philosophical and political roots of SSI
-* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/Principal-Authority/) (2021) - Why identity should be framed as a domain of agency
-* [**Five Mental Models of Identity**](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.pdf) (2020) - Understanding different perspectives on identity
 
 ## Who Is Christopher Allen?
 
