@@ -98,7 +98,3 @@ Christopher is the founder and moderator of the **Rebooting the Web of Trust** w
 ## Contact
 
 For more information: [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com)
-
----
-
-_Header background is [Earth's City Lights](https://visibleearth.nasa.gov/images/55167/earths-city-lights) from NASA._
