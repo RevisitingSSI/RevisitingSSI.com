@@ -1,5 +1,6 @@
 ---
-title: "Self-Sovereign Identity:<br>Ten Years Later, a Time to Reassess"
+title: "Self-Sovereign Identity: Ten Years Later"
+tagline: "A Time to Reassess"
 permalink: /
 status: draft
 date: 2025-11-25
