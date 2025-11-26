@@ -1,3 +1,21 @@
 main:
   - title: "Lens Briefs"
     url: /lenses/briefs/
+reading:
+  - title: "Reading"
+    children:
+    - title: "Path to SSI"
+      url: https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/
+    - title: "Origins of SSI"
+      url: https://www.lifewithalacrity.com/article/origins-SSI/
+    - title: "Principal Authority"
+      url: https://www.lifewithalacrity.com/article/Principal-Authority/
+    - title: "Five Mental Models (PDF)"
+      url: https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/mental-models.pdf   
+othersites:
+  - title: "Other Sites"
+    children:
+    - title: "Life with Alacrity"
+      url: https://www.lifewithalacrity.com/
+    - title: "Blockchain Commons"
+      url: https://www.blockchaincommons.com/
