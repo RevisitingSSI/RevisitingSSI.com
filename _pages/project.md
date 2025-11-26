@@ -43,7 +43,7 @@ This initiative is committed to openness and accessibility. All materials produc
 
 This ensures the work remains in the commons, accessible to researchers, practitioners, policymakers, and communities worldwide. It reflects our commitment to shared knowledge and collaborative advancement of SSI principles.
 
-### Authorship & Attribution
+## Authorship & Attribution
 
 Contributors to papers and briefs will be credited according to their level of participation, inspired by [AMA guidelines for determining authorship](https://www.google.com/books/edition/AMA_Manual_of_Style/Dy3JDwAAQBAJ?hl=en&gbpv=1&dq=%22All+authors+should+have+participated+sufficiently+in+the+work+to+take+public+responsibility%22&pg=PT205&printsec=frontcover) (see [Working Circles](#working-circles-purpose--expectations) for details on collaborative credit):
 
