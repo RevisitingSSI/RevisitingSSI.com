@@ -19,7 +19,7 @@ Working Circles should aim to be:
 - **High-level and strategic**, not technical
 - **Grounded in references or lived experience**
 
-**Working Circle Composition:**
+## Working Circle Composition
 
 Effective Working Circles typically include 3-7 members bringing diverse perspectives. We encourage circles to include participants from different:
 - Disciplines (technical, policy, advocacy, academic, etc.)
@@ -28,7 +28,7 @@ Effective Working Circles typically include 3-7 members bringing diverse perspec
 
 Circles with 2 or fewer members may struggle with perspective diversity; circles with 8+ may benefit from splitting into focused sub-groups. The goal is rich dialogue without unwieldy coordination.
 
-**Forming and Joining Working Circles:**
+## Forming and Joining Working Circles
 
 At the [December 2nd kickoff meetings](#phase-1-kickoff-meetings), we will:
 1. **Surface initial topics and lenses** through open discussion
@@ -48,7 +48,7 @@ Each Circle will produce a short [**Lens Exploration Brief**](/lenses/briefs/) (
 - Identifies open questions the Circle is working through
 - Poses questions that require dialogue beyond the Working Circle
 
-**From Briefs to Papers:**
+## From Briefs to Papers
 
 [Lens Exploration Briefs](/lenses/briefs/) are designed as initial scoping documents. Working Circles may choose to develop their briefs into full papers for broader publication. This requires:
 
