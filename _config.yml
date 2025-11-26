@@ -12,14 +12,19 @@ repository: "RevisitingSSI/RevisitingSSI.com"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 search: true
+lunr:
+  search_within_pages: true
 
 # Required Plugins
 plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-include-cache
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+  - jekyll-remote-theme
 
 # Collections
 collections:
