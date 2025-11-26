@@ -3,8 +3,6 @@ main:
     url: /join/
   - title: "About"
     url: /about/
-  - title: "Principles"
-    url: /library/ssi-principles/
   - title: "Project"
     url: /project/
   - title: "Meetings"
@@ -27,6 +25,8 @@ reading:
 otherfiles:
   - title: "Other Files"
     children:
+    - title: "SSI Principles"
+    url: /library/ssi-principles/
     - title: "Code of Conduct"
       url: /conduct/
 othersites:
