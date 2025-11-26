@@ -1,5 +1,6 @@
 ---
 title: "Lens Exploration Briefs"
+tagline: "15 Lenses for Viewing the Future of SSI"
 permalink: /lenses/briefs/
 status: draft
 version: 0.2.01
