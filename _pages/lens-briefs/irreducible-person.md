@@ -1,13 +1,11 @@
 ---
 title: "The Irreducible Person Lens"
+tagline: "Witnessing Existence, Not Granting It"
 permalink: /lenses/briefs/irreducible-person/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## The Irreducible Person: Witnessing Existence, Not Granting It
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/3)**
 

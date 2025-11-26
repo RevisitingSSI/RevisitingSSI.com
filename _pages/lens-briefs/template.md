@@ -5,9 +5,6 @@ status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-# Lens Exploration Brief Template
 
 This template guides Working Circles in creating **Lens Exploration Briefs** for the #RevisitingSSI project. Briefs help the community understand your lens, why it matters, and how it may inform the 2026 SSI Principles.
 

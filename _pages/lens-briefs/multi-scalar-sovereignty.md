@@ -1,13 +1,11 @@
 ---
 title: "Multi-Scalar Sovereignty Lens"
+tagline: "Preventing 'Self-Sovereignty' from Becoming 'Sovereignty-as-a-Service'"
 permalink: /lenses/briefs/multi-scalar-sovereignty/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Multi-Scalar Sovereignty: Preventing "Self-Sovereignty" from Becoming "Sovereignty-as-a-Service"
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/13)**
 

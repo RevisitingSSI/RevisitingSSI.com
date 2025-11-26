@@ -1,13 +1,11 @@
 ---
 title: "Coercion Resistance Lens"
+tagline: "Coercion Resistance as a Foundational Orientation for SSI"
 permalink: /lenses/briefs/coercion-resistance/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Coercion Resistance as a Foundational Orientation for SSI
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/7)**
 

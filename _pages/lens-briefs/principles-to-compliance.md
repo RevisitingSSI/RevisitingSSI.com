@@ -1,13 +1,11 @@
 ---
 title: "From Principles to Compliance Lens"
+tagline: "What Can Be Verified, What Requires Regulation, What Resists Measurement"
 permalink: /lenses/briefs/principles-to-compliance/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## From Principles to Compliance: What Can Be Verified, What Requires Regulation, What Resists Measurement
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/15)**
 

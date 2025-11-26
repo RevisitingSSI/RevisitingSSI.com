@@ -1,13 +1,11 @@
 ---
 title: "Principal Authority Lens"
+tagline: "Formal Delegation and Duty-Bearing Legal Relationships"
 permalink: /lenses/briefs/principal-authority/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Principal Authority: Formal Delegation and Duty-Bearing Legal Relationships
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/17)**
 

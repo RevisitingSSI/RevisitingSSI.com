@@ -5,9 +5,6 @@ status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Relational Autonomy
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/11)**
 

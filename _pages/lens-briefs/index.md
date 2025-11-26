@@ -5,9 +5,6 @@ status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/)
-
-# Lens Exploration Briefs
 
 **Lens Exploration Briefs** examine self-sovereign identity through diverse conceptual, ethical, legal, and technical perspectives. Each lens reveals a distinct dimension of the problem space—surfacing harms, exploring tensions, identifying blind spots, and proposing constructive directions.
 

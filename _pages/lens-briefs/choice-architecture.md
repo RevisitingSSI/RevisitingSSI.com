@@ -1,13 +1,11 @@
 ---
 title: "Choice Architecture & Exit Rights Lens"
+tagline: "Preventing Lock-In and Enabling Genuine Alternatives"
 permalink: /lenses/briefs/choice-architecture/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Choice Architecture & Exit Rights: Preventing Lock-In and Enabling Genuine Alternatives
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/9)**
 

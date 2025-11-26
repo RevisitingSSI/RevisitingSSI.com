@@ -1,13 +1,11 @@
 ---
 title: "Self-Coercion Lens"
+tagline: "When External Pressure Becomes Internal Compliance"
 permalink: /lenses/briefs/self-coercion/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Self-Coercion & Manufactured Consent: When External Pressure Becomes Internal Compliance
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/8)**
 

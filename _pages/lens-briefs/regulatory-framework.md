@@ -1,13 +1,11 @@
 ---
 title: "Regulatory Frameworks for SSI Lens"
+tagline: "Enabling Without Mandating, Protecting Without Controlling"
 permalink: /lenses/briefs/regulatory-framework/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Regulatory Frameworks for SSI: Enabling Without Mandating, Protecting Without Controlling
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/16)**
 

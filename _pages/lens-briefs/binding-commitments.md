@@ -1,13 +1,11 @@
 ---
 title: "Binding Commitments Lens"
+tagline: "The Positive Value of Voluntary Constraint"
 permalink: /lenses/briefs/binding-commitments/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Binding Commitments: The Positive Value of Voluntary Constraint
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/10)**
 

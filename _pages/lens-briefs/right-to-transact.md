@@ -1,13 +1,11 @@
 ---
 title: "Right to Transact Lens"
+tagline: "Constitutional Foundation for SSI Participation"
 permalink: /lenses/briefs/right-to-transact/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Right to Transact: Constitutional Foundation for SSI Participation
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/5)**
 

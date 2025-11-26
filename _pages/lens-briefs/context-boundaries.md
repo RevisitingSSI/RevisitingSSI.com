@@ -1,13 +1,11 @@
 ---
 title: "Context Boundaries & Anti-Correlation Lens"
+tagline: "Preventing Unwanted Information Flow"
 permalink: /lenses/briefs/context-boundaries/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Context Boundaries & Anti-Correlation: Preventing Unwanted Information Flow
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/12)**
 

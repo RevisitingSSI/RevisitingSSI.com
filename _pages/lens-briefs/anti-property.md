@@ -1,13 +1,11 @@
 ---
 title: "Anti-Property Lens"
+tagline: "Why Property Law Fails as Foundation for Digital Identity"
 permalink: /lenses/briefs/anti-property/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Anti-Property: Why Property Law Fails as Foundation for Digital Identity
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/4)**
 

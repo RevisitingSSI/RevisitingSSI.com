@@ -1,13 +1,11 @@
 ---
 title: "Cryptographic Paradigms Lens"
 permalink: /lenses/briefs/cryptographic-paradigms/
+tagline: "When Today's Assumptions Become Tomorrow's Constraints"
 status: draft
 version: 0.2.01
 date: 2025-11-25
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Cryptographic Paradigms: When Today's Assumptions Become Tomorrow's Constraints
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/6)**
 

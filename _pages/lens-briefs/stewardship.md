@@ -1,13 +1,11 @@
 ---
 title: "Stewardship Lens"
+tagline: "https://github.com/RevisitingSSI/RevisitingSSI.com.git"
 permalink: /lenses/briefs/stewardship/
 status: draft
 version: 0.2.01
 date: 2025-11-24
 ---
-[#RevisitingSSI Home Page](/) | [Lens Briefs](../)
-
-## Stewardship: Caring for Vulnerable Populations in Digital Identity
 
 **[Discuss this lens on GitHub →](https://github.com/RevisitingSSI/Community/discussions/14)**
 
