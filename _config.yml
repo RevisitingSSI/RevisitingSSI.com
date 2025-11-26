@@ -78,6 +78,7 @@ defaults:
           show_overlay_excerpt: false
       sidebar:
         nav:
+          - otherfiles
           - reading
           - othersites
 
