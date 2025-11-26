@@ -1,6 +1,8 @@
 main:
   - title: "Lens Briefs"
     url: /lenses/briefs/
+  - title: "Principles"
+    url: /library/ssi-principles/
 reading:
   - title: "Reading"
     children:
