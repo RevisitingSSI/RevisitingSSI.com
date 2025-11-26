@@ -3,6 +3,7 @@ title: "Self-Sovereign Identity:<br>Ten Years Later, a Time to Reassess"
 permalink: /
 status: draft
 date: 2025-11-25
+hide_description: true
 ---
 
 Welcome to the **Revisiting Self-Sovereign Identity (SSI) Principles** series of online workshops.
