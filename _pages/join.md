@@ -6,6 +6,8 @@ status: draft
 date: 2025-11-26
 ---
 
+{% include channels.md %}
+
 ## Who Should Participate?
 
 This initiative needs diverse perspectives working together. We explicitly seek participants from different disciplines, backgrounds, and roles:
