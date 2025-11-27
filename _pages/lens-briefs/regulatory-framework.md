@@ -139,6 +139,3 @@ It would:
 1. **Government vs. Ecosystem Roles**: What should government provide (legal recognition, enforcement, standards blessing) versus what should emerge from ecosystem (technical innovation, credential types, verification networks)? How do we prevent government frameworks from crowding out ecosystem innovation?
 
 2. **Framework Licensing and Governance**: Should model regulatory frameworks (like Digital Law Framework) be open-licensed for adaptation across jurisdictions? What governance structures should oversee framework evolution as technology and threats change?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

@@ -138,6 +138,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 ### Questions for the Broader Community
 
 1. **Platform vs. Community Commitments**: Should SSI explicitly distinguish community mutual obligations (productive) from platform lock-in (exploitative)? Or is any distinction paternalistic? Can we create structural criteria avoiding content judgment?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

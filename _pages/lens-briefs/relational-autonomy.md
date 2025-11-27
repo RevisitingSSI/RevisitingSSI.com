@@ -113,6 +113,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 ### Questions for the Broader Community
 
 1. **Individual vs. Relational Architecture**: Should SSI architectures optimize for individual autonomy (strong privacy, minimal dependencies, unlinkability) even if this makes community credentials harder to implement? Or optimize for relational identity (bilateral credentials, group standing, relationship graphs) even if this creates surveillance risks? Can we genuinely support both, or must we make architectural trade-offs that privilege one model?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

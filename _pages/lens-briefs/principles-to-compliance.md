@@ -149,6 +149,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 3. **Open-Source Verification Ecosystem**: Should SSI verification tools be open-source to prevent compliance from becoming a barrier favoring large platforms? How do we fund sustainable open-source compliance infrastructure without hidden surveillance business models?
 
 4. **Cross-Jurisdictional Compliance**: How do Tier 2 (regulatory) requirements work across jurisdictions with different legal frameworks? Should SSI compliance profiles be jurisdiction-specific, or can we develop internationally harmonized requirements?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

@@ -129,6 +129,3 @@ Frame as provocations, not final solutions.
 - **Audience:** SSI-literate participants from diverse fields.
 - **Integration:** Reference related lenses explicitly in Section 2.
 - **Version Control:** Update version number when making substantial edits.
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

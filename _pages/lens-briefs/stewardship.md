@@ -146,6 +146,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 ### Questions for the Broader Community
 
 1. **Cultural Variation in Care Norms**: Stewardship norms differ across cultures—extended family obligations, community care models, institutional vs. family responsibility assumptions. Should SSI stewardship principles be culturally universal or explicitly accommodate variation in how communities care for vulnerable members?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

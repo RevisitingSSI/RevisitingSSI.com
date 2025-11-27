@@ -116,6 +116,3 @@ These directions focus on preventing the conditions under which self-coercion em
 1. **Cultural Normalization**: SSI can provide technical anti-chilling protections, but can architecture change cultures that have normalized surveillance? Should SSI principles address cultural narratives explicitly, or focus only on technical and governance mechanisms?
 
 2. **Equity in Privacy Access**: Privacy-protective choices are often accessible primarily to privileged groups—those with technical knowledge, economic resources, and social capital to resist conformity pressure. How do we ensure anti-chilling protections don't become luxury goods that further marginalize those most harmed by surveillance?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

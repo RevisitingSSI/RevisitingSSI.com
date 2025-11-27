@@ -141,6 +141,3 @@ Participation rights form the baseline principle upon which all other SSI rights
 2. **Platform Accountability Mechanisms**: What accountability structures should apply when wallet providers or verification networks exclude users? Should there be mandatory appeal processes, independent oversight, transparency requirements, or penalties for discriminatory exclusion?
 
 3. **International Framework Variation**: Participation rights frameworks differ across jurisdictions—constitutional protections vary, regulatory approaches diverge, cultural expectations about state vs. market roles differ. Can we develop internationally applicable SSI participation principles, or must frameworks be jurisdiction-specific?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

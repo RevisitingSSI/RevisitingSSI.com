@@ -113,6 +113,3 @@ Dignity is the root that all other SSI principles serve: every person has inhere
 1. **Cultural Variation in Dignity Norms**: Dignity, autonomy, and personhood are understood differently across cultures. Should protective constraints be culturally universal (risking hegemony) or explicitly accommodate variation (risking relativism that enables violations)?
 
 2. **AI Personhood Boundary**: Does this lens apply only to humans, or might future AI systems warrant similar protections? Where is the boundary between "system" (which must witness existence) and "person" (whose existence must be witnessed)?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

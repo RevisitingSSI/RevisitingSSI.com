@@ -20,8 +20,6 @@ This initiative unfolds across multiple phases, culminating in publication of re
 
 Details about Phase 2 participation will be shared in late January based on Phase 1 outputs.
 
-Details about Phase 2 participation will be shared in late January based on Phase 1 outputs.
-
 ## Phase 1 Topics
 
 In 2016, the original *Ten Principles of Self-Sovereign Identity (SSI)* provided a foundation for decentralized, privacy-respecting identity. A decade later, digital identity operates within a transformed landscape containing: AI inference, behavioral design, biometric systems, platform governance, global data markets, and widening social inequalities.
@@ -45,7 +43,7 @@ This ensures the work remains in the commons, accessible to researchers, practit
 
 ## Authorship & Attribution
 
-Contributors to papers and briefs will be credited according to their level of participation, inspired by [AMA guidelines for determining authorship](https://www.google.com/books/edition/AMA_Manual_of_Style/Dy3JDwAAQBAJ?hl=en&gbpv=1&dq=%22All+authors+should+have+participated+sufficiently+in+the+work+to+take+public+responsibility%22&pg=PT205&printsec=frontcover) (see [Working Circles](#working-circles-purpose--expectations) for details on collaborative credit):
+Contributors to papers and briefs will be credited according to their level of participation, inspired by [AMA guidelines for determining authorship](https://www.google.com/books/edition/AMA_Manual_of_Style/Dy3JDwAAQBAJ?hl=en&gbpv=1&dq=%22All+authors+should+have+participated+sufficiently+in+the+work+to+take+public+responsibility%22&pg=PT205&printsec=frontcover) (see [Working Circles](/circles/) for details on collaborative credit):
 
 - **Authors**: Those who substantially contribute to conception, drafting, revision, and can take public responsibility for the work
 - **Contributors**: Those who provide input, feedback, or support but at a lesser level of engagement

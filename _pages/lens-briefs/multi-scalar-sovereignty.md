@@ -126,6 +126,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 ### Questions for the Broader Community
 
 1. **Individual and Collective Sovereignty**: How does individual self-sovereignty relate to popular sovereignty and democratic collective governance? Does individual cryptographic control enable meaningful participation in collective action, or does atomized "sovereignty" actually undermine the solidarity needed to contest platform power? How should SSI connect to broader movements—digital sovereignty, Indigenous data sovereignty, platform cooperativism—that assert collective rather than individual control?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

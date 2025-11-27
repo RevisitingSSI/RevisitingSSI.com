@@ -3,3 +3,10 @@
     {{ page.subtitle | markdownify | strip_html | strip_newlines | escape_once }}
     </p>
 {% endif %}
+{% if page.status or page.version %}
+<p class="page__status">
+    {% if page.status == 'draft' %}<em>Draft for community development</em>{% endif %}
+    {% if page.status and page.version %} · {% endif %}
+    {% if page.version %}Version {{ page.version }}{% endif %}
+</p>
+{% endif %}

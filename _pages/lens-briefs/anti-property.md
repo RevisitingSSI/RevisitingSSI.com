@@ -138,6 +138,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 1. **Intellectual Property in Autobiographical Work**: This lens critiques identity-as-property. But what about intellectual property rights in creative works about identity (memoirs, life stories, artistic self-expression)? Does copyright in autobiographical work create problematic commodification or protect legitimate creative expression?
 
 2. **Power Asymmetry Beyond Anti-Property**: If individual rights (property or otherwise) cannot solve structural problems like platform monopolies and algorithmic discrimination, what systemic interventions are needed? Does preventing anti-commodification require antitrust action, regulatory prohibition, or collective organizing beyond what SSI architecture can provide?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

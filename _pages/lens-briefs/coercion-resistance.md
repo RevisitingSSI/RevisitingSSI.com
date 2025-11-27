@@ -128,6 +128,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 1. **Inference Constraints**: To what extent can technical anti-correlation protections constrain behavioral and emotional inferences, especially when inference can occur independently of SSI systems? What are the architectural limits?
 
 2. **Cognitive Liberty**: Should cognitive freedom (mental privacy, integrity, continuity, self-determination) be a separate lens updating SSI principles, or is it an essential dimension of coercion resistance? Does it warrant architectural separation?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

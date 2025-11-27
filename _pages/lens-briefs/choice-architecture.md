@@ -118,6 +118,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 ### Questions for the Broader Community
 
 1. **Regulatory Intervention**: Can competition and multiple alternatives solve structural coercion, or does winner-take-all dynamics inevitably create platform monopolies? Does preventing lock-in require regulatory intervention beyond technical portability standards?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

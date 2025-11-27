@@ -116,6 +116,3 @@ Remove any layer and accountability collapses: legal duties become nominal witho
 1. **Structural Power and Consent**: Can individual legal tools (agency duties, revocability) solve structural problems (platform monopolies, power asymmetries)? When agents have vastly more power than principals, can any "consent" constitute meaningful delegation—or are power-balancing mechanisms required?
 
 2. **Cross-Jurisdictional Agency**: Agency law draws on Common Law tradition. How do equivalent doctrines work in Civil Law, Sharia law, Indigenous customary law? Can we develop internationally harmonized Agency duties while respecting diverse legal traditions?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

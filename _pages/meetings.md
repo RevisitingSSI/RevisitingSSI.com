@@ -1,7 +1,9 @@
 ---
 title: "Revisiting SSI Meetings"
+tagline: "Kickoff & Community Gatherings"
 permalink: /meetings/
 status: draft
+version: 0.2.01
 date: 2025-11-26
 ---
 

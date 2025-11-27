@@ -102,6 +102,3 @@ These briefs need you. Each lens is seeking a **primary author** or **Working Ci
 - **Provide feedback**: Comment on drafts, suggest resources, identify blind spots
 
 All written work is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). Contributors are credited according to their level of participation.
-
----
-*© 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

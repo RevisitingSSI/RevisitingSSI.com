@@ -186,6 +186,3 @@ Each capability may genuinely serve principles—or may become a fig-leaf maskin
 1. **Invisible Assumptions**: What paradigm assumptions in SSI today will we regret in 10 years? What constraints are we accepting as given that could be challenged?
 
 2. **Evolution Process**: How should the SSI community identify and respond to paradigm shifts as they emerge? What governance or review processes would help principles remain paradigm-aware over time—without being captured by technology enthusiasm?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

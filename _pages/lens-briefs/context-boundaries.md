@@ -112,6 +112,3 @@ These aren't comprehensive solutions—they're provocations for exploration:
 2. **Context Boundaries vs. Identity Coherence**: Some argue context separation fragments the self and prevents holistic identity expression; others argue it enables authentic pluralism. Which better serves human dignity? Can SSI support both models—strong separation for some, integration for others?
 
 3. **Regulatory Alignment**: How does technical context boundary enforcement in SSI relate to GDPR's purpose limitation principle? Can SSI architecture implement regulatory requirements more effectively than current systems?
-
----
-*Draft for community development. © 2025 Christopher Allen & contributors. Licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
