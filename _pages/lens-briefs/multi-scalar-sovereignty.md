@@ -97,21 +97,23 @@ These aren't comprehensive solutions—they're provocations for exploration:
 
 #### **7. Selected Resources**
 
-* _**Infrastructural Power: Digital Sovereignty and the Territorialization of Big Tech**_ (2023). _Grohmann, Rafael._ International Journal of Communication 17: 3824-3842. <https://ijoc.org/index.php/ijoc/article/view/20280>
+* _**Sovereignty-as-a-service: How big tech companies co-opt and redefines digital sovereignty**_ (2025). [paper]. _Grohmann, Rafael; Costa Barbosa, Alexandre._ Media, Culture & Society, pp. 1-9. DOI: 10.1177/01634437251395003. Retrieved 2025-11-15 from: <https://doi.org/10.1177/01634437251395003>.
 
-  > **WHY THIS MATTERS**: Documents platform capture of "digital sovereignty"—Microsoft "Cloud for Sovereignty," Amazon "Digital Sovereignty Pledge," Google "Digital Sovereignty Explorer" redefine political capacity (European movements asserting autonomy) into commercial product (services platforms control). Demonstrates pattern: political movement coins term → Big Tech launches programs → meaning shifts from capacity to product. Warning for SSI: same capture risk.
+  > **SHORT ABSTRACT**: Grohmann and Costa Barbosa analyze how Microsoft, Amazon, and Google strategically redefined digital sovereignty (2022-2023) through cloud programs responding to European regulatory pressure. Critical discourse analysis reveals convergent transformation: sovereignty shifts from political capacity (collective self-determination, state control) to commercial product (modular services purchased through proprietary platforms). Fundamental power inversion—platforms provision sovereignty on their terms rather than being subject to sovereign authority, naturalizing dependency while maintaining sovereignty rhetoric.
 
-* _**The Three Sovereignties: Legitimacy and the Contemporary Self**_ (2020). _Morozov, Evgeny._ The Hedgehog Review 22(2). <https://hedgehogreview.com/issues/the-self-examined/articles/the-three-sovereignties>
+  > **WHY THIS MATTERS**: Big Tech presents sovereignty as "a journey" leading to their own services—a pattern SSI faces directly. If Microsoft ION, Google/Amazon identity services, or dominant wallet providers capture SSI implementations, "self-sovereign identity" becomes consumer service provisioned on platform terms, not political capacity users inherently possess.
 
-  > **WHY THIS MATTERS**: Analyzes sovereignty at multiple scales—popular sovereignty (people's collective capacity), state sovereignty (nation-state authority), individual sovereignty (personal autonomy). Shows sovereignty operates through negotiation between scales with reciprocal obligations, not hierarchical provisioning. Foundation for understanding multi-scalar sovereignty in digital contexts.
+* _**Cyber-Proletariat: Global Labour in the Digital Vortex**_ (2015). [book]. _Dyer-Witheford, Nick._ Pluto Press. Digital Barricades series. ISBN: 978-0745334035. Available at: <https://archive.org/details/cyberproletariat0000dyer>.
 
-* _**Cyber-Proletariat: Global Labour in the Digital Vortex**_ (2014). _Dyer-Witheford, Nick._ Pluto Press, London.
+  > **SHORT ABSTRACT**: Dyer-Witheford examines digital capitalism's dark side: coltan mines in Congo, electronics factories in China, devastated neighborhoods in Detroit. Using Marx's vortex metaphor, he shows how the digital revolution enables capital to eject powerful workers while recruiting global sources of cheapened labour. He analyzes migrant assembly-line proletariat, free online labor fueling Web 2.0 profits, and high-speed trading's AI dependency, while examining information technology's potential within radical movements.
 
-  > **WHY THIS MATTERS**: Documents how platform capitalism creates feudal dependencies masquerading as autonomy. "Digital sovereignty" claimed by platforms actually deepens subordination through service dependency. Provides political economy analysis showing platforms seek sovereignty seat without accepting reciprocal obligations characteristic of peer sovereigns.
+  > **WHY THIS MATTERS**: Platform capitalism creates feudal dependencies masquerading as autonomy—"digital sovereignty" claimed by platforms actually deepens subordination through service dependency. This lens warns SSI against platforms seeking a sovereignty seat without accepting reciprocal obligations characteristic of peer sovereigns.
 
-* _**The Question Concerning Technology in China: An Essay in Cosmotechnics**_ (2016). _Hui, Yuk._ Urbanomic, Falmouth, UK.
+* _**The Question Concerning Technology in China: An Essay in Cosmotechnics**_ (2016). [book]. _Hui, Yuk._ Urbanomic. ISBN: 978-0995455009. Publisher: <https://www.urbanomic.com/book/question-concerning-technology-china/>. Also: <https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/>.
 
-  > **WHY THIS MATTERS**: Explores how different cultural traditions understand technology and sovereignty differently. Chinese "technological sovereignty" movements differ from European "digital sovereignty" in philosophical grounding and political goals. Shows sovereignty isn't universal concept but culturally situated, requiring negotiation across traditions—relevant for global SSI implementations respecting diverse sovereignty conceptions.
+  > **SHORT ABSTRACT**: Hui responds to Heidegger's "Question Concerning Technology" by arguing Western technē—tool for mastering nature—differs fundamentally from Chinese Dao-Qi, where technology harmonizes cosmic and ethical principles. He introduces "cosmotechnics": the unification of cosmic and moral order through technical activities. Rather than accepting technological universalism, Hui argues for reconstructing Chinese technological thought capable of navigating modernity without mere westernization.
+
+  > **WHY THIS MATTERS**: Sovereignty isn't a universal concept but culturally situated—Chinese "technological sovereignty" differs from European "digital sovereignty" in philosophical grounding and goals. Global SSI implementations must negotiate across traditions (Dao-Qi, Ubuntu, Indigenous sovereignty) rather than imposing a single Western model of self-determination.
 
 #### **8. Open Questions & Questions for the Broader Community**
 

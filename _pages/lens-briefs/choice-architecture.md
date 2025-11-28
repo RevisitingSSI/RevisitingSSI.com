@@ -87,21 +87,29 @@ These aren't comprehensive solutions—they're provocations for exploration:
 
 #### **7. Selected Resources**
 
-* _**The Tyranny of Convenience**_ (2018). [opinion article]. _Wu, Tim._ New York Times Sunday Review. <https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html>
+* _**The Tyranny of Convenience**_ (2018). [article]. _Wu, Tim._ The New York Times, February 16, 2018. Retrieved 2025-11-27 from: <https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html>.
 
-  > **WHY THIS MATTERS**: Documents how convenience creates lock-in transforming initial voluntary choice into permanent dependency. Switching costs make exit prohibitively expensive despite nominal freedom to leave. Shows structural coercion pattern where accumulated convenience dependencies eliminate alternatives over time.
+  > **SHORT ABSTRACT**: Wu argues convenience is "the most underestimated and least understood force in the world today." Created to free us, convenience has a dark side—it threatens to erase struggles that give life meaning and can become a constraint enslaving us. Tracing two waves of convenience (labor-saving technology, then personalized digital services), Wu demonstrates how frictionless efficiency breeds monopoly: "The easier it is to use Amazon, the more powerful Amazon becomes."
 
-* _**Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor**_ (2018). [book]. _Eubanks, Virginia._ St. Martin's Press, New York. <https://virginia-eubanks.com/automating-inequality/>
+  > **WHY THIS MATTERS**: Documents how convenience creates lock-in transforming initial voluntary choice into permanent dependency. Switching costs make exit prohibitively expensive despite nominal freedom to leave. Frictionless efficiency breeds monopoly—the structural coercion pattern where accumulated dependencies eliminate alternatives.
 
-  > **WHY THIS MATTERS**: Documents credential dependency chains where "voluntary" biometric enrollment for food assistance conceals structural coercion when alternative is starvation. Illustrates cascading requirements creating lock-in: can't get benefits without biometric, can't get biometric without ID, can't get ID without address. Each step appears "voluntary" but chain eliminates alternatives.
+* _**Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor**_ (2018). [book]. _Eubanks, Virginia._ St. Martin's Press, New York. ISBN: 978-1250074317. 260 pages. Author's website: <https://virginia-eubanks.com/automating-inequality/>. Publisher: <https://us.macmillan.com/books/9781250074317/automatinginequality/>.
 
-* _**Introduction: Privacy Self-Management and the Consent Dilemma**_ (2013). [article]. _Solove, Daniel J._ 126 Harvard Law Review 1880 (2013). <https://harvardlawreview.org/print/vol-126/introduction-privacy-self-management-and-the-consent-dilemma/>
+  > **SHORT ABSTRACT**: Eubanks examines how automated systems in social services create a "digital poorhouse" that profiles and punishes poor Americans. Through case studies of Indiana's automated welfare eligibility, Los Angeles' homeless services triage, and Allegheny County's child welfare risk scoring, she shows high-tech tools intensify historical patterns of discrimination through speed, scale, and an appearance of objectivity.
 
-  > **WHY THIS MATTERS**: Demonstrates privacy consent mechanisms fail because they assume informed, empowered users when reality is information asymmetry, power imbalance, and manufactured consent. Provides evidence that "nutrition labels" for identity decisions could enable genuine choice rather than consent theater by making consequences visible and comparable.
+  > **WHY THIS MATTERS**: Documents credential dependency chains where "voluntary" biometric enrollment conceals structural coercion when the alternative is starvation. Cascading requirements create lock-in: can't get benefits without biometric, can't get biometric without ID, can't get ID without address. Each step appears "voluntary" but the chain eliminates alternatives.
 
-* _**Principal Authority: A New Perspective on Self-Sovereign Identity**_ (2021). [article]. _Allen, Christopher._ Life With Alacrity. <https://www.lifewithalacrity.com/article/principal-authority/>
+* _**Privacy Self-Management and the Consent Dilemma**_ (2013). [paper]. _Solove, Daniel J._ Harvard Law Review, Vol. 126, pp. 1880-1903. Retrieved 2025-11-27 from: <https://harvardlawreview.org/print/vol-126/introduction-privacy-self-management-and-the-consent-dilemma/>. Also available at SSRN: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2171018>.
 
-  > **WHY THIS MATTERS**: Wyoming SF0039 grounds digital identity in Agency law where revocability is core principle—principals can withdraw delegation anytime. If revocation is impossible or prohibitively costly, "voluntary" delegation was coerced. Establishes legal framework: structural barriers preventing exit (this lens) violate legal revocability duty ([Principal Authority](../principal-authority/)).
+  > **SHORT ABSTRACT**: Solove critiques the dominant "privacy self-management" regulatory approach where consent legitimizes data collection and use. Drawing on empirical and social science research, he demonstrates key assumptions about individual decision-making are false—people cannot meaningfully manage their privacy. Yet the apparent solution (paternalism) denies freedom. Solove proposes focusing on downstream data uses, developing coherent consent approaches, and creating substantive privacy rules.
+
+  > **WHY THIS MATTERS**: Demonstrates privacy consent mechanisms fail—assumptions of informed, empowered users false given information asymmetry, power imbalance, and manufactured consent. Provides evidence that "nutrition labels" for identity decisions could enable genuine choice rather than consent theater by making consequences visible and comparable.
+
+* _**Principal Authority: A New Perspective on Self-Sovereign Identity**_ (2021). [article]. _Allen, Christopher (with Shannon Appelcline)._ Life With Alacrity [blog], September 15, 2021. Retrieved 2025-11-20 from: <https://www.lifewithalacrity.com/article/principal-authority/>.
+
+  > **SHORT ABSTRACT**: Allen analyzes Wyoming's SF0039—first U.S. legal definition of digital identity using "principal authority" to import Agency law precedent. Reframes 10 SSI principles as rights (existence, control, persistence, consent), identity duties (access, transparency, portability, interoperability, minimization, protection), and Agency duties (specificity, responsibility, representation, fidelity, disclosure). Grounds SSI in peer-to-peer relationships mediated by state rather than property law's state sovereignty.
+
+  > **WHY THIS MATTERS**: Wyoming SF0039 grounds digital identity in Agency law where revocability is core principle—principals can withdraw delegation anytime. If revocation is impossible or prohibitively costly, "voluntary" delegation was coerced. Structural barriers preventing exit violate legal revocability duty.
 
 #### **8. Open Questions & Questions for the Broader Community**
 

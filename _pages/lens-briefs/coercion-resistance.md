@@ -97,21 +97,29 @@ These aren't comprehensive solutions—they're provocations for exploration:
 
 #### **7. Selected Resources**
 
-* _**Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor**_ (2018). _Eubanks, Virginia._ St. Martin's Press. <https://virginia-eubanks.com/automating-inequality/>.
+* _**Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor**_ (2018). [book]. _Eubanks, Virginia._ St. Martin's Press, New York. ISBN: 978-1250074317. 260 pages. Author's website: <https://virginia-eubanks.com/automating-inequality/>. Publisher: <https://us.macmillan.com/books/9781250074317/automatinginequality/>.
 
-  > **WHY THIS MATTERS**: Demonstrates how automated systems create "digital poorhouse" profiling and punishing poor Americans through algorithmic surveillance and risk prediction. Shows structural coercion operating through welfare eligibility systems, homeless services triage, child welfare risk scoring—intensifying historical discrimination through speed, scale, and appearance of objectivity.
+  > **SHORT ABSTRACT**: Eubanks examines how automated systems in social services create a "digital poorhouse" that profiles and punishes poor Americans. Through case studies of Indiana's automated welfare eligibility, Los Angeles' homeless services triage, and Allegheny County's child welfare risk scoring, she shows high-tech tools intensify historical patterns of discrimination through speed, scale, and an appearance of objectivity.
 
-* _**Race After Technology: Abolitionist Tools for the New Jim Code**_ (2019). _Benjamin, Ruha._ Polity Press.
+  > **WHY THIS MATTERS**: Demonstrates structural coercion operating through welfare eligibility systems, homeless services triage, child welfare risk scoring—intensifying historical discrimination through speed, scale, and appearance of objectivity. The "digital poorhouse" creates coercion by limiting access to essential resources.
 
-  > **WHY THIS MATTERS**: Shows how technology design embeds and amplifies racial discrimination through "coded inequity" that appears neutral while perpetuating injustice. Essential for understanding how identity systems encode social hierarchies into technical architecture, creating structural coercion for marginalized communities.
+* _**Race After Technology: Abolitionist Tools for the New Jim Code**_ (2019). [book]. _Benjamin, Ruha._ Polity Press. ISBN: 978-1509526406. Available from author: <https://www.ruhabenjamin.com/race-after-technology>. Publisher: <https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437>.
 
-* _**The Battle for Your Brain: Defending the Right to Think Freely in the Age of Neurotechnology**_ (2023). _Farahany, Nita A._ St. Martin's Press.
+  > **SHORT ABSTRACT**: Benjamin introduces the "New Jim Code"—new technologies that reflect and reproduce existing inequities while promoted as objective and progressive. Through examples ranging from gang databases 87% Black and Latinx to beauty contests judged by robots selecting only white winners, she demonstrates how automation hides, speeds, and deepens discrimination while appearing neutral. Because technology is human-created and learns from biased data, none is free from human prejudice.
 
-  > **WHY THIS MATTERS**: Examines how brain-sensing technology threatens mental privacy and freedom of thought. Argues for cognitive liberty as fundamental human right encompassing mental privacy, mental integrity, and psychological continuity. Critical for understanding cognitive coercion dimension—surveillance of thoughts, attention, emotional states without consent.
+  > **WHY THIS MATTERS**: Shows how identity systems encode social hierarchies into technical architecture, creating structural coercion for marginalized communities. "Coded inequity" appears neutral while perpetuating injustice—technology embeds and amplifies racial discrimination.
 
-* _**The Age of Surveillance Capitalism**_ (2019). _Zuboff, Shoshana._ PublicAffairs. <https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/>.
+* _**The Battle for Your Brain: Defending the Right to Think Freely in the Age of Neurotechnology**_ (2023). [book]. _Farahany, Nita A._ St. Martin's Press. ISBN: 978-1250272966. Available from author: <https://www.nitafarahany.com/the-battle-for-your-brain>. Publisher: <https://us.macmillan.com/books/9781250272966/thebattleforyourbrain/>.
 
-  > **WHY THIS MATTERS**: Develops surveillance capitalism framework showing how behavioral data extraction creates prediction products sold in behavioral futures markets. Introduces "instrumentarian power" as automated domination through computational architecture. Essential theoretical foundation for understanding inference coercion—how profiling creates conformity pressure.
+  > **SHORT ABSTRACT**: Farahany argues that advances in neurotechnology enabling brain tracking and modification require updating fundamental rights to protect cognitive liberty—comprising mental privacy, self-determination, and freedom of thought. The first half examines how individuals, corporations, and governments now track and decode brain activity; the second half addresses brain modification including enhancement, manipulation, and assault. She proposes cognitive liberty as the single essential neuroright.
+
+  > **WHY THIS MATTERS**: Critical for the cognitive coercion dimension—surveillance of thoughts, attention, emotional states without consent. Cognitive liberty (mental privacy, mental integrity, psychological continuity, self-determination) represents the frontier of coercion resistance.
+
+* _**The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power**_ (2019). [book]. _Zuboff, Shoshana._ PublicAffairs, New York. 704 pages. ISBN 978-1-61039-569-4. Available from: <https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/>.
+
+  > **SHORT ABSTRACT**: Zuboff develops surveillance capitalism framework identifying unprecedented economic logic that claims human experience as free raw material, extracts "behavioral surplus" beyond service improvement, manufactures prediction products sold in behavioral futures markets, and deploys "instrumentarian power" through ubiquitous computational architecture to modify behavior. Argues surveillance capitalism constitutes existential threat to democracy and human autonomy, calling for "synthetic declarations" that change the game rather than merely resist within it.
+
+  > **WHY THIS MATTERS**: Essential theoretical foundation for inference coercion—"instrumentarian power" operates through behavioral prediction and modification, creating conformity pressure through automated systems. Provides framework for understanding how profiling creates coercion even without explicit commands.
 
 #### **8. Open Questions & Questions for the Broader Community**
 

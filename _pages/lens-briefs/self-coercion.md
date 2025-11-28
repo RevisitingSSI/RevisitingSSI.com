@@ -83,19 +83,27 @@ These directions focus on preventing the conditions under which self-coercion em
 
 #### **7. Selected Resources**
 
-* _**Chilling Effects: Online Surveillance and Wikipedia Use**_ (2016). _Penney, Jonathon W._ Berkeley Technology Law Journal 31(1): 117-182.
+* _**Chilling Effects: Online Surveillance and Wikipedia Use**_ (2016). [paper]. _Penney, Jonathon W._ Berkeley Technology Law Journal, Vol. 31, Issue 1, pp. 117-182. Retrieved 2025-11-27 from: <https://btlj.org/data/articles2016/vol31/31_1/0117_0182_Penney_ChillingEffects_WEB.pdf>. Also available at SSRN: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769645>.
 
-  > **WHY THIS MATTERS**: Provides empirical evidence of measurable chilling effects—Wikipedia traffic to sensitive articles declined after Snowden revelations. Demonstrates self-censorship from surveillance knowledge without explicit prohibition. Quantifies how monitoring knowledge creates preemptive compliance more effectively than rules.
+  > **SHORT ABSTRACT**: Penney provides the first empirical evidence of regulatory chilling effects from online surveillance using Wikipedia traffic data. The study shows a statistically significant 30% decline in access to privacy-sensitive Wikipedia articles following the June 2013 NSA/PRISM revelations. Beyond immediate effects, the research documents sustained long-term changes in information-seeking behavior, with implications for privacy law, First Amendment protections, and democratic participation.
 
-* _**The Age of Surveillance Capitalism**_ (2019). _Zuboff, Shoshana._ PublicAffairs, New York.
+  > **WHY THIS MATTERS**: First empirical proof of measurable chilling effects—self-censorship from surveillance knowledge without explicit prohibition. Quantifies how monitoring knowledge creates preemptive compliance more effectively than rules. Foundational evidence for this lens's central concern.
 
-  > **WHY THIS MATTERS**: Develops surveillance capitalism framework showing how behavioral data extraction creates conformity pressure. People internalize system preferences through automated prediction and modification. "Instrumentarian power"—automated systems shape choices through invisible architecture creating algorithmic conformity pressure.
+* _**The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power**_ (2019). [book]. _Zuboff, Shoshana._ PublicAffairs, New York. 704 pages. ISBN 978-1-61039-569-4. Available from: <https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/>.
 
-* _**Discipline and Punish: The Birth of the Prison**_ (1977). _Foucault, Michel._ Vintage Books.
+  > **SHORT ABSTRACT**: Zuboff develops surveillance capitalism framework identifying unprecedented economic logic that claims human experience as free raw material, extracts "behavioral surplus" beyond service improvement, manufactures prediction products sold in behavioral futures markets, and deploys "instrumentarian power" through ubiquitous computational architecture to modify behavior. Argues surveillance capitalism constitutes existential threat to democracy and human autonomy, calling for "synthetic declarations" that change the game rather than merely resist within it.
 
-  > **WHY THIS MATTERS**: Classic analysis of panopticon—how surveillance functions as disciplinary technology inducing self-regulation. "Visibility is a trap"—being watched (or believing you're watched) transforms behavior without commands. Foundation for understanding internalized compliance from surveillance knowledge.
+  > **WHY THIS MATTERS**: "Instrumentarian power"—automated systems shape choices through invisible architecture creating algorithmic conformity pressure. People internalize system preferences through automated prediction and modification. Provides theoretical framework for understanding self-coercion as surveillance capitalism's psychological mechanism.
 
-* _**Algorithms of Oppression: How Search Engines Reinforce Racism**_ (2018). _Noble, Safiya Umoja._ NYU Press.
+* _**Discipline and Punish: The Birth of the Prison**_ (1977). [book]. _Foucault, Michel._ Translated by Alan Sheridan. Pantheon Books. Original: _Surveiller et Punir: Naissance de la prison_ (1975), Gallimard. ISBN: 978-0679752554.
+
+  > **SHORT ABSTRACT**: Foucault traces punishment's evolution from public spectacle to psychological control through the prison system. Central is Bentham's Panopticon—an architecture where prisoners, never knowing if they're watched, internalize surveillance and discipline themselves. This model extends to schools, factories, and hospitals. Power operates not through violence but through observation, examination, and normalization, producing "docile bodies" conforming to norms. Knowledge and power are inextricably linked.
+
+  > **WHY THIS MATTERS**: Classic analysis of how surveillance induces self-regulation—"visibility is a trap." Being watched (or believing you're watched) transforms behavior without commands. Foundation for understanding internalized compliance from surveillance knowledge—the panopticon operates by making the prisoner police themselves.
+
+* _**Algorithms of Oppression: How Search Engines Reinforce Racism**_ (2018). [book]. _Noble, Safiya Umoja._ NYU Press, New York. ISBN: 978-1479837243. 256 pages. Publisher: <https://nyupress.org/9781479837243/algorithms-of-oppression/>.
+
+  > **SHORT ABSTRACT**: Safiya Noble challenges the neutrality assumption of search engines through analysis of textual and media searches plus paid advertising research. Documents how search algorithms perpetuate racism and sexism by reflecting and amplifying societal biases. Coins "algorithmic oppression" to describe data failures specific to people of color, women, and marginalized groups. Research originated from 2011 discovery that "black girls" search returned pornography results. Argues users modify behavior to avoid triggering negative algorithmic inferences from systems they cannot see or contest. 2021 MacArthur Fellowship recognized this ground-breaking work in critical information and algorithm studies.
 
   > **WHY THIS MATTERS**: Documents how algorithmic profiling creates conformity pressure through biased categorizations. Users modify behavior to avoid triggering negative inferences from systems they can't see or contest. Algorithmic bias creates self-coercion—people change authentic expression to match system expectations.
 

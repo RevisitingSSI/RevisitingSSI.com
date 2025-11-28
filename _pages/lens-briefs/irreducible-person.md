@@ -86,21 +86,29 @@ Dignity is the root that all other SSI principles serve: every person has inhere
 
 #### **7. Selected Resources**
 
-* _**The Path to Self-Sovereign Identity**_ (2016). _Allen, Christopher._ Life with Alacrity. <https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/>.
+* _**The Path to Self-Sovereign Identity**_ (2016). [article]. _Allen, Christopher._ Life With Alacrity [blog], April 26, 2016, updated 2020. Retrieved 2025-11-12 from: <https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/>. Cross-posted to CoinDesk, April 27, 2016.
 
-  > **WHY THIS MATTERS**: Original 10 SSI principles, especially Principle 1 (Existence): "Users must have an independent existence." Essential for understanding original intent—identity precedes systems—and why this lens examines what happens when protective constraints are operationalized against their purpose.
+  > **SHORT ABSTRACT**: Allen establishes self-sovereign identity framework through historical analysis showing centralized, federated, and user-centric identity systems failed to give individuals true control. Proposes ten principles (Existence, Control, Access, Transparency, Persistence, Portability, Interoperability, Consent, Minimalization, Protection) as criteria for genuinely sovereign systems. Grounds identity in Descartes' *cogito ergo sum* and cryptographic precedents like PGP's Web of Trust, establishing SSI as technical infrastructure and human rights framework.
 
-* _**Compliance SSI System Property Set**_ (2022). _Pattiyanon & Aoki._ IEEE Access, vol. 10, pp. 99370-99393. <https://ieeexplore.ieee.org/document/9875265>.
+  > **WHY THIS MATTERS**: Principle 1 (Existence): "Users must have an independent existence"—the ineffable "I" that precedes and transcends digital representations. This lens examines what happens when protective constraints like Principle 1 are operationalized against their original purpose.
 
-  > **WHY THIS MATTERS**: Cautionary tale—CSSPS IP1 demonstrates how operationalization can reverse a principle's ethical foundation by transforming "identity precedes systems" into "associate users with identifiers." Instructive failure showing why some principles must remain protective constraints.
+* _**Compliance SSI System Property Set to Laws, Regulations, and Technical Standards**_ (2022). [journal article]. _Pattiyanon, Charnon; Aoki, Toshiaki._ IEEE Access, vol. 10, pp. 99370-99393. DOI: 10.1109/ACCESS.2022.3204112. Available from: <https://ieeexplore.ieee.org/document/9875265>.
 
-* _**Race After Technology: Abolitionist Tools for the New Jim Code**_ (2019). _Benjamin, Ruha._ Polity Press.
+  > **SHORT ABSTRACT**: Pattiyanon and Aoki present CSSPS (Compliance SSI System Property Set), a framework of 42 verifiable properties addressing the gap between self-sovereign identity principles and legal/regulatory compliance. Through systematic analysis, they demonstrate current SSI systems fail to meet information security and privacy requirements mandated by laws and technical standards. CSSPS organizes properties into five hierarchical categories with detailed constraint expressions. The modular framework allows selective adoption based on regulatory contexts, enabling organizations to implement property subsets while maintaining SSI's core values.
 
-  > **WHY THIS MATTERS**: "Being excluded from the registry is tantamount to being denied existence." Documents how systems treating measurement as validation enable exclusion and encode historical inequality—colonial registries, Jim Crow tests, apartheid passes, contemporary algorithmic exclusion.
+  > **WHY THIS MATTERS**: Cautionary tale—CSSPS IP1 transforms "identity precedes systems" into "associate users with identifiers," demonstrating how operationalization can reverse a principle's ethical foundation. Instructive example of why some principles must remain protective constraints that resist measurement.
 
-* _**Universal Declaration of Human Rights**_ (1948). _United Nations._ Article 6. <https://www.un.org/en/about-us/universal-declaration-of-human-rights>.
+* _**Race After Technology: Abolitionist Tools for the New Jim Code**_ (2019). [book]. _Benjamin, Ruha._ Polity Press. ISBN: 978-1509526406. Available from author: <https://www.ruhabenjamin.com/race-after-technology>. Publisher: <https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437>.
 
-  > **WHY THIS MATTERS**: "Everyone has the right to recognition everywhere as a person before the law." International human rights law foundation for unconditional personhood—recognition as person must not depend on encoding, registration, or satisfying system criteria.
+  > **SHORT ABSTRACT**: Benjamin introduces the "New Jim Code"—new technologies that reflect and reproduce existing inequities while promoted as objective and progressive. Through examples ranging from gang databases 87% Black and Latinx to beauty contests judged by robots selecting only white winners, she demonstrates how automation hides, speeds, and deepens discrimination while appearing neutral. Because technology is human-created and learns from biased data, none is free from human prejudice.
+
+  > **WHY THIS MATTERS**: "Being excluded from the registry is tantamount to being denied existence." Documents how systems treating measurement as validation enable exclusion—colonial registries, Jim Crow tests, apartheid passes, contemporary algorithmic exclusion. Shows why dignity must precede encoding, not depend on it.
+
+* _**Universal Declaration of Human Rights**_ (1948). [treaty]. _United Nations General Assembly._ Resolution 217 A (III), adopted December 10, 1948, Paris. Retrieved 2025-11-27 from: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>. PDF: <https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/eng.pdf>.
+
+  > **SHORT ABSTRACT**: The UDHR, adopted by UN General Assembly in 1948, establishes that all human beings are "born free and equal in dignity and rights" (Article 1). Its 30 articles enumerate fundamental rights including life, liberty, security, equality before law, privacy, freedom of thought and expression, and economic participation. Dignity precedes rights as the foundation—humans possess rights precisely because each has intrinsic worth. Translated into 562+ languages; inspired 70+ human rights treaties.
+
+  > **WHY THIS MATTERS**: Article 6: "Everyone has the right to recognition everywhere as a person before the law." International human rights law foundation for unconditional personhood—recognition as person must not depend on encoding, registration, or satisfying system criteria.
 
 #### **8. Open Questions & Questions for the Broader Community**
 
