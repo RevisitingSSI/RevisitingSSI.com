@@ -152,9 +152,9 @@ Complete alphabetical reference for all citations in the Revisiting SSI project.
 
 ---
 
-### Allen (2025) Clubs
+### Allen (2025) The Gordian Club
 
-* _**Musings of a Trust Architect: Clubs**_ (2025). [article]. _Allen, Christopher._ Life With Alacrity. Available from: <https://www.lifewithalacrity.com/article/musings-clubs/>.
+* _**Musings of a Trust Architect: The Gordian Club**_ (2025). [article]. _Allen, Christopher._ Life With Alacrity. Available from: <https://www.lifewithalacrity.com/article/musings-clubs/>.
 
   > **TAGS**: [#CryptographicCapabilities](/library/citations/by-tag/#cryptographiccapabilities-1) [#HDKeys](/library/citations/by-tag/#hdkeys-1) [#ThresholdSignatures](/library/citations/by-tag/#thresholdsignatures-4) [#ZeroKnowledgeProofs](/library/citations/by-tag/#zeroknowledgeproofs-4) [#AllenChristopher](/library/citations/by-tag/#allenchristopher-8) [#DelegatedAuthority](/library/citations/by-tag/#delegatedauthority-1) [#SelectiveDisclosure](/library/citations/by-tag/#selectivedisclosure-2) [#KeyDerivation](/library/citations/by-tag/#keyderivation-1)
 
@@ -164,7 +164,7 @@ Complete alphabetical reference for all citations in the Revisiting SSI project.
 
   > **WHY THIS MATTERS** _(for Technical Delegation Lens)_: Explores cryptographic capabilities enabling selective disclosure and delegated authority through derived keys, threshold signatures, and zero-knowledge proofs. Demonstrates practical implementation patterns for SSI delegation.
 
-<!-- NOT-IN-INDEX -->
+<!-- M-2025-11-29 -->
 
 ---
 
@@ -556,7 +556,7 @@ Complete alphabetical reference for all citations in the Revisiting SSI project.
 
   > **WHY THIS MATTERS** _(for Technical Delegation Lens)_: Standard protocol for secure, authenticated, asynchronous messaging between DID-identified parties—foundational delegation protocol enabling verifiable authorization, credential exchange, and revocation flows.
 
-<!-- NOT-IN-INDEX -->
+<!-- M-2025-11-29 -->
 
 ---
 
@@ -832,7 +832,7 @@ Complete alphabetical reference for all citations in the Revisiting SSI project.
 
   > **WHY THIS MATTERS** _(for Cryptographic Paradigms Lens)_: Example of emerging capability that existing paradigms didn't anticipate. Threshold signatures indistinguishable from single-signer output. Principles written today should enable—not preclude—capabilities like this.
 
-<!-- NOT-IN-INDEX -->
+<!-- M-2025-11-29 -->
 
 ---
 
@@ -1358,7 +1358,7 @@ Complete alphabetical reference for all citations in the Revisiting SSI project.
 
   > **WHY THIS MATTERS** _(for Technical Delegation Lens)_: W3C standard for decentralized, self-sovereign identifiers with cryptographic verification and no central authority—foundational infrastructure enabling platform-independent delegation and authority revocation.
 
-<!-- NOT-IN-INDEX -->
+<!-- M-2025-11-29 -->
 
 ---
 
@@ -1374,7 +1374,7 @@ Complete alphabetical reference for all citations in the Revisiting SSI project.
 
   > **WHY THIS MATTERS** _(for Technical Delegation Lens)_: W3C standard for machine-verifiable credentials enabling tamper-evident, cryptographically secure, privacy-respecting digital credentials—foundational data model for delegation, authorization, and revocability.
 
-<!-- NOT-IN-INDEX -->
+<!-- M-2025-11-29 -->
 
 ---
 
