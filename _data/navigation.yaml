@@ -12,7 +12,7 @@ main:
   - title: "About"
     url: /about/
 meetings:
-  - title: Meetings"
+  - title: Meetings
     children:
     - title: "Main Meetings"
       url: /meetings/
