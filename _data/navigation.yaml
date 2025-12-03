@@ -11,6 +11,15 @@ main:
     url: /lenses/briefs/
   - title: "About"
     url: /about/
+meetings:
+  - title: Meetings"
+    children:
+    - title: "Main Meetings"
+      url: /meetings/
+    - title: "Meetings Archive"
+      url: /meetings/archives/
+    - title: "Back to Home"
+      url: /
 reading:
   - title: "Reading"
     children:
