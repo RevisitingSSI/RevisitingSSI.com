@@ -10,7 +10,7 @@ date: 2025-12-03
   <tr>
     <td>
 
-      <a href="/meetings/2025-12-kickoff/"><img src="https://img.youtube.com/vi/vq_rK-sQlkI/0.jpg" width=150px style="border: 1px solid blue"></a>
+      <a href="/meetings/2025-12-kickoff/"><img src="https://img.youtube.com/vi/vq_rK-sQlkI/0.jpg" width=200px style="border: 1px solid blue"></a>
 
     </td>
     <td>
