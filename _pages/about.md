@@ -62,3 +62,6 @@ Patrons receive:
 Individual supporters are welcome through **GitHub Sponsors**, either as a one-time gift or a recurring monthly contribution:
 
 👉 **https://github.com/sponsors/ChristopherA**
+
+{% include sponsors.md %}
+
