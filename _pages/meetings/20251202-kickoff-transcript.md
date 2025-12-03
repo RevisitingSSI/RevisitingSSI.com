@@ -1,7 +1,7 @@
 ---
 title: "Revisiting SSI: Kickoff Meeting (12/2/2025)"
 tagline: "LLM-Cleaned Transcript"
-permalink: /meetings/2025-12-02-kickoff/transcript/
+permalink: /meetings/2025-12-kickoff/transcript/
 date: 2025-12-02
 ---
 
