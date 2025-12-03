@@ -1,8 +1,6 @@
 main:
   - title: "Join Us!"
     url: /join/
-  - title: "About"
-    url: /about/
   - title: "Project"
     url: /project/
   - title: "Meetings"
@@ -11,6 +9,8 @@ main:
     url: /circles/
   - title: "Lenses"
     url: /lenses/briefs/
+  - title: "About"
+    url: /about/
 reading:
   - title: "Reading"
     children:
