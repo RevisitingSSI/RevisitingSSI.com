@@ -3,6 +3,11 @@ title: "Revisiting SSI Meetings"
 tagline: "Kickoff & Community Gatherings"
 permalink: /meetings/
 date: 2025-12-03
+sidebar:
+  nav:
+    - otherfiles
+    - meetings
+    - othersites
 ---
 
 ## Most Recent Meeting
