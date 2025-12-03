@@ -7,7 +7,7 @@ date: 2025-12-02
 
 _The following is a cleaned-up transcript for the meeting._
 
-**Participants:** Christopher Allen, Michael Herman, Christian Saucier, Georg Greve, Frederick Lindén, André Ferriere, Gino Bernardi, Christoph Dorn, Kim Hamilton Duffy, Phillip Long, Martina Kolpondinos, Gerald Glickman, Markus Sabadello, Frederic de Vaulx, Matthew Schutte, Rich Streeter, Juan Caballero (Bumblefudge), Georgy Ishmaev, Taylor Kendal, Denken Chen, etc.
+**Participants:** Christopher Allen, Michael Herman, Christian Saucier, Georg Greve, Frederick Lindén, André Ferreira, Gino Bernardi, Christoph Dorn, Kim Hamilton Duffy, Phillip Long, Martina Kolpondinos, Gerald Glickman, Markus Sabadello, Frederic de Vaulx, Matthew Schutte, Rich Streeter, Juan Caballero (Bumblefudge), Georgy Ishmaev, Taylor Kendal, Denken Chen, etc.
 
 **Duration:** ~90 minutes
 
