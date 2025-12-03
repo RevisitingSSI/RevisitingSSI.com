@@ -3,6 +3,11 @@ title: "Revisiting SSI Meetings Archives"
 tagline: "Library of SSI Meetings"
 permalink: /meetings/archives/
 date: 2025-12-03
+sidebar:
+  nav:
+    - otherfiles
+    - meetings
+    - othersites
 ---
 
 <table>
