@@ -19,9 +19,9 @@ sidebar:
 
     </td>
     <td>
-       <h2><a href="/meetings/2025-12-kickoff/">Kickoff: Americas/Africa/Europe (December 2025)</a></h2>
+       <h2><a href="/meetings/2025-12-kickoff/">Kickoff: Americas, Europe and Africa (December 2025)</a></h2>
 
-       <p>The first kickoff meeting, with introductions and break-outs for contributors in western time zones.</p>
+       <p>The first kickoff meeting, with introductions and break-outs for contributors in the Americas, Europe and Africa.</p>
        
     </td>
   </tr>

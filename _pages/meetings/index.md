@@ -20,9 +20,9 @@ sidebar:
 
     </td>
     <td>
-       <h2><a href="/meetings/2025-12-kickoff/">Kickoff: Americas/Africa/Europe (December 2025)</a></h2>
+       <h2><a href="/meetings/2025-12-kickoff/">Kickoff: Americas, Europe and Africa (December 2025)</a></h2>
 
-       <p>The first kickoff meeting, with introductions and break-outs for contributors in western time zones.</p>
+       <p>The first kickoff meeting, with introductions and break-outs for contributors in the Americas, Europe and Africa.</p>
        
     </td>
   </tr>
@@ -36,7 +36,7 @@ _See the [archives](/meetings/archives/) for all past meetings._
 
 Beyond the kickoff, we will hold regular community meetings throughout Phase 1:
 - **Frequency**: Biweekly (every two weeks)
-- **Tentative dates**: December 16th, January 6th, January 20th (times alternating between EU/US and EU/Tokyo to accommodate global participation)
+- **Tentative dates**: December 16th, January 6th, January 20th (times alternating between Americas, Europe and Africa and Asia-Pacific, Europe and Africa sessions)
 - **Format**: Working sessions focused on cross-Circle dialogue, feedback on emerging briefs, and collaborative problem-solving
 - **Duration**: 90 minutes
 
