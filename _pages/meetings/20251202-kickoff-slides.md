@@ -1,10 +1,15 @@
 ---
-title: "Revisiting SSI: Workshop Kickoff"
-tags: presentation, workshop, SSI
-robots: noindex, nofollow
+title: “Revisiting SSI- Workshop Kickoff”
+tags: Slides, Presentation, Workshop, SSI
+type: slide
 slideOptions:
-  theme: white
+  theme: black
   transition: fade
+  controls: true
+  progress: true
+  slideNumber: true
+  center: true
+  fragments: true
 ---
 
 <style>
@@ -23,17 +28,56 @@ blockquote p:last-child {
   margin: 0 !important;
   padding: 0 !important;
 }
+
+/* Reveal.js adjustments */
+.reveal ul {
+  font-size: 0.9em;
+  line-height: 1.2em;
+}
+
+.reveal pre code {
+  font-size: 0.7em;
+  margin: 0px 60px;
+}
+
+.reveal p {
+  line-height: 1em;
+}
 </style>
 
-<!-- .slide: id="title" -->
 
-# Revisiting SSI
+<!-- .slide: id="title" data-background-image="https://revisitingssi.com/assets/images/rssi-header.jpg" data-background-opacity="0.3" -->
+
+# #RevisitingSSI
 
 ## Ten Years Later
 
-### Workshop Kickoff
+### Workshop Kickoff (EU/US)
 
-*December 2025*
+<font size="6">December 2nd, 2025 - 7pm CET, 10a PT </font>
+
+---
+
+<!-- .slide: id="sponsors" -->
+
+## Made Possible By Our Sponsors
+
+<img src="https://revisitingssi.com/assets/images/sponsors/stream44-studio.png" height="150">
+
+<small>Stream44.Studio</small>
+
+*Supporting the strategic inquiry to shape</br>the next decade of digital identity*
+
+---
+
+<!-- .slide: id="patrons" -->
+
+#### …and My Monthly GitHub Patrons
+
+![Individual Patrons](https://hackmd.io/_uploads/HyKjog3Wbe.png)
+
+github.com/sponsor/ChristopherA
+
 
 ---
 
@@ -41,12 +85,13 @@ blockquote p:last-child {
 
 ## Today's Agenda
 
-1. **Context**: Why we're here
+1. **Context**: The ten-year question
 2. **Lenses**: 15 ways of seeing
-3. **Teams**: What you'll produce
-4. **Formation**: Choose your lens
+3. **Working Circles**: What they produce
+4. **Activity**: Breakouts and discussion
+5. **Next Steps**: Two kickoffs, one community
 
-**Goal**: Leave with a team and a plan
+**Goal**: Find a lens that calls to you
 
 ---
 
@@ -75,12 +120,12 @@ They were aspirational—a compass, not a map.
 The principles caught fire.
 
 - Hundreds of articles and academic papers
-- Broad acceptance across technologists, policymakers, advocates
+- Broad acceptance among technologists, policymakers, advocates
 - W3C working groups, government pilots, enterprise interest
 
-A global community formed around decentralized digital identity
+**A global community formed around<br/>decentralized digital identity**
 
-**The principles inspired people.**
+### _The principles inspired people_
 
 ---
 
@@ -96,7 +141,7 @@ The architecture worked. The standards shipped.
 
 But somewhere along the way…
 
-### _The principles got lost_.
+### _The principles got lost_
 
 ---
 
@@ -107,8 +152,8 @@ But somewhere along the way…
 - Focused on _**privacy**_ instead of what privacy defends: _**resisting coercion**_
 - Followed the money. Death by 1000 compromises
 - `did:web`—“decentralized” in name only
-- Google & Apple—more resources, centralized solutions—are winning
-- Governments focused on “Four Horsemen”<br/>_(terror, pedophilia, drugs, money)_ while the real threat is **autocracy**
+- Google & Apple and winning with more resources & centralized solutions
+- Governments focused on _“Four Horsemen”_<br/>_(terror, pedophilia, drugs, money)_ while the real threat is **autocracy**
 
 ---
 
@@ -120,7 +165,7 @@ But somewhere along the way…
 
 * But we became indistinguishable from the very systems we set out to disrupt
 
-> "If we can't maintain semantic integrity of 'decentralized' in our own community, how can we fight for it in the larger world?"
+> “If we can’t maintain semantic integrity of ’decentralized’ in our own community, how can we fight for it in the larger world?”
 
 We may have _**increased**_ centralized power
 
@@ -140,7 +185,7 @@ We may have _**increased**_ centralized power
 
 <!-- .slide: id="why-you" -->
 
-## Why You're Here
+## Why You’re Here
 
 We need diverse expertise:
 
@@ -161,41 +206,31 @@ Raise your Zoom hand to share:
 1. **Name** & **affiliation** *(if any)*
 2. **One sentence**: What brings you to this work?
 
-*~30 seconds each • I'll go first to model*
+*~30 seconds each • I’ll go first to model*
 
-Note: speaker-notes
-**Model intro (~20 sec):**
-"I'm Christopher Allen. I wrote the original ten principles in 2016. I'm here because I believe we lost our way—and this community can help us find it again."
+<small>_I’m Christopher Allen of Blockchain Commons.<br/>I wrote the original ten principles in 2016.<br/>I’m here because I believe we lost our way—<br/>and this community can help us find it again._</small>
+
+Note:
 
 **If someone runs long:**
-"Thank you—great context! Who's next?"
+“Thank you—great context! Who’s next?”
 
 **After 10-12 intros:**
-"We won't get to everyone now, but you'll introduce yourselves in your working circles. Let's continue."
+“We won’t get to everyone now, but you’ll introduce yourselves in your working circles. Let’s continue.”
 Note: end-speaker-notes
 
 ---
 
 <!-- .slide: id="outputs" -->
 
-## What We'll Produce
+## What We’ll Produce
 
 | Phase | Output | Timeline |
 |-------|--------|----------|
 | 1 | Lens Briefs | Dec–Jan |
-| 2 | Full Papers | Feb–Apr |
-| 3 | Revised Principles<br/>_**Exactly ten years<br/>after the original.**_ | April 28, 2026 |
+| 2 | Drafts of Papers | Feb–Apr |
+| 3 | <u>**Revised Principles**</u> <br/>_(Exactly ten years<br/>after the original)_ | April 26th, 2026 |
 | 4 | Papers and articles based<br/>on the Revised Principles| May-Dec |
-
----
-
-<!-- .slide: id="sponsors" -->
-
-## Made Possible By
-
-![Stream44.Studio](/assets/images/sponsors/stream44-studio.png)
-
-*Supporting the strategic inquiry that will shape the next decade of digital identity.*
 
 ---
 
@@ -252,12 +287,12 @@ What makes identity a _**right**_</br>rather than a privilege?
 ## 1. Irreducible Person
 
 ### Core insight:
-Existence isn't earned or proven—it simply *is*.
+Existence isn’t earned or proven—it simply *is*.
 
 ### Key question:
 How do we protect dignity from being made measurable?
 
-*Example: Aadhaar biometric exclusion—existence conditioned on encoding.*
+*Example: Aadhaar biometric exclusion—existence conditioned on encoding*
 
 ----
 
@@ -269,9 +304,9 @@ How do we protect dignity from being made measurable?
 Identity cannot be owned, bought, sold, or treated as property.
 
 ### Key question:
-How do we resist "data ownership" commodification?
+How do we resist “data ownership” commodification?
 
-*"Owning your data" legitimizes markets that shouldn't exist.*
+*“Owning your data” legitimizes markets that shouldn’t exist*
 
 ----
 
@@ -285,7 +320,7 @@ Digital participation is a constitutional right.
 ### Key question:
 How do we prevent exclusion by gatekeepers?
 
-*Operation Choke Point 2.0: Banks weaponized as censors.*
+*Operation Choke Point 2.0: Banks weaponized as censors*
 
 ----
 
@@ -299,7 +334,7 @@ PKI assumptions constrained us for 36 years.
 ### Key question:
 What assumptions are we embedding now that will limit 2036?
 
-*What can't we invent because current paradigms block it?*
+*What can’t we invent because current paradigms block it?*
 
 ---
 
@@ -345,7 +380,7 @@ The most effective control feels like your own idea.
 ### Key question:
 How do we counter chilling effects?
 
-*You modify behavior based on imagined consequences—no rule needed.*
+*You modify behavior based on imagined consequences—no rule needed*
 
 ----
 
@@ -359,7 +394,7 @@ Small voluntary choices accumulate into structural dependency.
 ### Key question:
 How do we ensure real exit rights?
 
-*"The 18-year trap": Credentials that won't transfer.*
+*“The 18-year trap”: Credentials that won’t transfer*
 
 ----
 
@@ -373,7 +408,7 @@ Not all lock-in is harmful. Voluntary constraint enables trust.
 ### Key question:
 When is commitment productive vs. exploitative?
 
-*Kenyan chamas: 200,000+ groups managing $1.7B through mutual stakes.*
+*Kenyan chamas: 200,000+ groups managing $1.7B through mutual stakes*
 
 ---
 
@@ -381,11 +416,11 @@ When is commitment productive vs. exploitative?
 
 ## Category 3: Relational & Contextual Identity
 
-Identity exists in relationship—<br/>to others, to context, to scale.
+Identity exists in relationship:<br/>to others, to context, to scale.
 
 <font size=6>
     
-- **Relational Autonomy** — "I am because we are"
+- **Relational Autonomy** — “I am because we are”
 - **Context Boundaries** — Keeping life spheres distinct
 - **Multi-Scalar Sovereignty** — Individual, community, nation
 - **Stewardship** — Caring for those who cannot consent
@@ -399,12 +434,12 @@ Identity exists in relationship—<br/>to others, to context, to scale.
 ## 9. Relational Autonomy
 
 ### Core insight:
-"I am because we are." —Ubuntu philosophy
+“I am because we are” —Ubuntu philosophy
 
 ### Key question:
 How do we credential relationships, not just attributes?
 
-*Immigration systems separate families—bonds are invisible.*
+*Immigration systems separate families;<br>bonds are invisible*
 
 ----
 
@@ -413,12 +448,12 @@ How do we credential relationships, not just attributes?
 ## 10. Context Boundaries
 
 ### Core insight:
-Your employer shouldn't see therapy notes.
+Your employer shouldn’t see therapy notes.
 
 ### Key question:
 How do we prevent correlation attacks?
 
-*Unlinkable identifiers keep life spheres cryptographically distinct.*
+*Unlinkable identifiers keep life spheres cryptographically distinct*
 
 ----
 
@@ -432,7 +467,7 @@ Sovereignty operates at individual, community, AND national scales.
 ### Key question:
 How do we prevent re-centralization?
 
-*Technical distribution ≠ political distribution.*
+*Technical distribution ≠ political distribution*
 
 ----
 
@@ -441,12 +476,12 @@ How do we prevent re-centralization?
 ## 12. Stewardship
 
 ### Core insight:
-When caring for others' identity—empowering or exploiting?
+When caring for others’ identity, are we empowering or exploiting?
 
 ### Key question:
-How do we protect those who can't exit or refuse?
+How do we protect those who can’t exit or refuse?
 
-*18 years of credential accumulation without child consent.*
+*18 years of credential accumulation without child consent*
 
 ---
 
@@ -476,7 +511,7 @@ Not everything important can be measured.
 ### Key question:
 What must remain ethical commitment vs. technical test?
 
-*Treating all principles as measurable destroys the ones that matter most.*
+*Treating all principles as measurable destroys the ones that matter most*
 
 ----
 
@@ -485,12 +520,12 @@ What must remain ethical commitment vs. technical test?
 ## 14. Regulatory Frameworks
 
 ### Core insight:
-Legal "voluntary" erodes to practical "mandatory."
+Legal “voluntary” erodes to practical “mandatory”
 
 ### Key question:
 How do we enable SSI without mandating it?
 
-*Utah model: Recognition without government monopoly.*
+*Utah model: Recognition without government monopoly*
 
 ----
 
@@ -504,7 +539,7 @@ Platforms violate every duty agents owe principals.
 ### Key question:
 How do we restore accountability?
 
-*Centuries of agency law—enforceable duties of care, loyalty, disclosure.*
+*Centuries of agency law—enforceable duties of care, loyalty, disclosure*
 
 ---
 
@@ -512,13 +547,13 @@ How do we restore accountability?
 
 ## Lens Connections
 
-These aren't silos.
+These aren’t silos.
 
 - Stewardship ↔ Relational Autonomy
 - Coercion Resistance threads through everything
 - Context Boundaries ↔ Multi-Scalar Sovereignty
 
-Each brief acknowledges connections while going deep on one.
+Each brief acknowledges connections while going deep on one
 
 ---
 
@@ -526,13 +561,13 @@ Each brief acknowledges connections while going deep on one.
 
 ## These Are Starting Points
 
-The lens briefs are early drafts—provocations, not conclusions.
+The lens briefs are early drafts—<br/>**provocations, not conclusions**
 
 - New lenses may emerge from your work
-- We won't tackle all equally—and that's okay
+- We won’t tackle all equally, and that’s okay
 - Coverage will be organic, based on interest and expertise
 
-Your working circle takes ownership of where one lens goes next.
+**Each working circle will take ownership<br/>of where the lens goes next.**
 
 ---
 
@@ -540,7 +575,7 @@ Your working circle takes ownership of where one lens goes next.
 
 # Part 3
 
-## What Teams Will Do
+## What Working Circles Will Do
 
 ---
 
@@ -548,20 +583,22 @@ Your working circle takes ownership of where one lens goes next.
 
 ## Working Circles
 
-**Size:** 3–5 members
+**Size:** 2-5 members (3–4 ideal)
 
-**Composition:** Seek diversity
+**Composition:** Seek diversity<br/>
 *Technical + Policy + Advocacy + Academic*
 
 **Commitment:** 2–3 sessions × 90 minutes
 
-**Output:** Lens Exploration Brief
+**Goal:** Rough consensus on worthy insights, not standards, specs, or product designs
+
+*Ground your work in references or<br/>lived experience, not speculation*
 
 ---
 
 <!-- .slide: id="brief-template" -->
 
-## The Brief Template
+## The Lens Brief Template
 
 <font size=6>
 
@@ -580,12 +617,12 @@ Your working circle takes ownership of where one lens goes next.
 
 <!-- .slide: id="beyond-brief" -->
 
-## Beyond the Brief
+## Beyond the Lens Brief
 
-**Phase 2 options:**
-- Develop full academic paper
-- Write policy brief
-- Contribute to principles synthesis
+**Phase 2 (selective):** Strong briefs may advance to:
+- Full academic paper
+- Policy brief
+- Principles synthesis
 
 **Credit:** Substantial contribution = authorship
 
@@ -596,7 +633,8 @@ Your working circle takes ownership of where one lens goes next.
 ## The Stakes
 
 Your work informs principles published
-**April 28, 2026**
+
+### _April 26th, 2026_
 
 Exactly ten years after the original.
 
@@ -609,86 +647,79 @@ affecting **billions of people**.
 
 # Part 4
 
-## Team Formation
+## Workshop Activity
 
 ---
 
-<!-- .slide: id="interest" -->
+<!-- .slide: id="breakout1" -->
 
-## Interest Check
+## Small Group Warm-Up
 
-In chat, write the **1–2 lenses** that most call to you.
+*Zoom will auto-assign you to rooms (3 people each)*
 
-Don't overthink—go with your gut.
+In your breakout:
 
----
+1. Introduce yourselves briefly
+2. Each share:<br/>_“If you had to focus on **one lens just for today**—no long-term commitment—which would you choose and why”_?
 
-<!-- .slide: id="lens-grid" -->
-
-## Quick Reference
-
-| # | Lens | You care about… |
-|---|------|-----------------|
-| 1 | Irreducible Person | Human rights, dignity |
-| 2 | Anti-Property | Commodification critique |
-| 3 | Right to Transact | Financial inclusion |
-| 4 | Crypto Paradigms | Technical architecture |
-| 5 | Coercion Resistance | Surveillance, manipulation |
-| 6 | Self-Coercion | Chilling effects |
+*~10 minutes*
 
 ---
 
-<!-- .slide: id="lens-grid-2" -->
+<!-- .slide: id="report-chat" -->
 
-## Quick Reference (cont.)
+## Share Your Interest
 
-| # | Lens | You care about… |
-|---|------|-----------------|
-| 7 | Choice Architecture | UX ethics, exit rights |
-| 8 | Binding Commitments | Game theory, trust |
-| 9 | Relational Autonomy | Community, Ubuntu |
-| 10 | Context Boundaries | Correlation, separation |
-| 11 | Multi-Scalar | Governance, Global South |
-| 12 | Stewardship | Guardianship, children |
+When you return:
 
----
+1. **Type in chat:** Your chosen lens for today
+2. I’ll call out lenses with 2+ people
+3. When yours is called, share your “why” (~30 sec)
 
-<!-- .slide: id="lens-grid-3" -->
-
-## Quick Reference (cont.)
-
-| # | Lens | You care about… |
-|---|------|-----------------|
-| 13 | Principles→Compliance | Standards, meaning |
-| 14 | Regulatory Frameworks | Law, policy |
-| 15 | Principal Authority | Agency law, fiduciary |
+*Starting with the most popular*
 
 ---
 
-<!-- .slide: id="breakouts" -->
+<!-- .slide: id="breakout2" -->
 
-## Breakout Formation
+## Lens Deep-Dive *(time permitting)*
 
-1. **Join your lens room** (Zoom breakout)
-2. **Introduce yourselves** (2 min each)
-3. **Exchange contacts**
-4. **Schedule first session** (within 1 week)
+*Choose your room—named for each active lens*
 
-*5 minutes in breakouts*
+Your task:
+
+- Discuss: <br/>_**“What’s the biggest risk if this lens is ignored?”**_
+
+- Pick someone to report back
+
+*~10 minutes*
 
 ---
 
-<!-- .slide: id="commitment" -->
+<!-- .slide: id="lens-reports" -->
 
-## Team Commitment
+## Lens Reports
 
-Back in main room:
+One person from each room:
 
-> "We are [names],
-> working on [lens],
-> meeting [when]."
+- Which lens?
+- What risk did you identify?
 
-Public commitment creates accountability.
+*~30 seconds each*
+
+---
+
+<!-- .slide: id="momentum" -->
+
+## Where’s the Energy?
+
+Based on what we heard:
+
+- Which lenses have momentum?
+- Who wants to continue working on these?
+- Any lenses we should combine or table for now?
+
+*This shapes our working circles going forward*
 
 ---
 
@@ -700,14 +731,52 @@ Public commitment creates accountability.
 
 ---
 
-<!-- .slide: id="actions" -->
+<!-- .slide: id="two-kickoffs" -->
 
-## This Week
+## Two Kickoffs, One Community
 
-- [ ] Exchange contacts with your team
-- [ ] Schedule first session
-- [ ] Review your lens's citations
-- [ ] Read 2–3 foundational papers
+**Today:** EU/US timezone-friendly
+
+**Next week:** Asia/EU timezone-friendly
+
+Working circles may form at either—or span both.
+
+*Cross-timezone? Work asynchronously or find overlapping hours*
+
+---
+
+<!-- .slide: id="whats-next" -->
+
+## What’s Next
+
+**If your working circle has momentum:**
+
+- Announce on GitHub Discussions
+- Seek diverse points-of-view<br/>_(from workshop or invite from outside)_
+- Schedule your first session
+
+**Still exploring?**
+
+- Share interest on GitHub Discussions or Signal
+- Connect at next week’s Asia/EU kickoff
+
+*No pressure to commit to a circle today*
+
+---
+
+<!-- .slide: id="how-we-work" -->
+
+## How We Work
+
+* **Licensing:** All outputs CC-BY 4.0
+   * *Open for others to build on*
+
+* **Conduct:** What’s shared here stays here
+  * *Don’t quote members without permission*.
+  * **See also RevisitingSSI.com/conduct**
+
+* **Facilitation:** I’m the initial host, facilitator, <br/>and academic referee
+   * *Want to help at this level? Let’s talk*
 
 ---
 
@@ -715,14 +784,13 @@ Public commitment creates accountability.
 
 ## Resources
 
-**Citations Library**
-revisitingssi.com/library/citations/by-lens/
+**GitHub Discussions** — Cross-circle dialogue
 
-**GitHub Discussions**
-Cross-team dialogue and questions
+**Signal Group** — Quick coordination
 
-**Facilitator Office Hours**
-[To be announced]
+**Citations Library** — revisitingssi.com/library/citations/
+
+**Facilitator Office Hours** — [TBD]
 
 ---
 
@@ -732,10 +800,10 @@ Cross-team dialogue and questions
 
 | Milestone | Date |
 |-----------|------|
-| Lens Briefs Due | [TBD] |
+| Lens Briefs Due | End of January |
 | Mid-Point Check-in | [TBD] |
 | Phase 2 Kickoff | [TBD] |
-| Principles Publication | April 28, 2026 |
+| Principles Publication | April 26th, 2026 |
 
 ---
 
@@ -749,42 +817,38 @@ in a moment of inspiration.
 These revised principles will emerge from
 **a community wrestling honestly with hard questions**.
 
-That's you. Thank you!
-
----
-
-<!-- .slide: id="begin" -->
-
-# Let's Begin
-
-*Break into your lens rooms*
+### That’s you! Thank you!
 
 ---
 
 <!-- .slide: id="support" -->
 
-## Support This Work
+## Support This Work!
 
-Seeking sponsors for:
+Your support enables my work as<br/>host, facilitator, and academic steward:
 
-- Working circle facilitation
-- Publication & dissemination
 - Community infrastructure
+- Workshop & working circle facilitation
+- Research coordination & publication
 
-**Learn more:** revisitingssi.com/sponsor/
+**Be an organizational patron of workshop:** revisitingssi.com/sponsor/
 
-**Contact:** @ChristopherA
+**…or individual sponsor _(monthly via GitHub, like Patreon)_:** github.com/sponsors/ChristopherA
 
 ---
 
 <!-- .slide: id="end" -->
 
-## Thank You
-
-**Christopher Allen**
-@ChristopherA
-
-**Revisiting SSI**
-revisitingssi.com
+## Thank You!
 
 *Ten years of learning. A decade of impact ahead.*
+
+**[RevisitingSSI.com](https:RevisitingSSI.com)**
+
+<img src="https://avatars.githubusercontent.com/ChristopherA?s=150">
+
+**Christopher Allen** _\<ChristopherA@LifeWithAlacrity.com>_
+
+<small>
+
+_**available for trust architecture, technical consultation, and policy review**_
