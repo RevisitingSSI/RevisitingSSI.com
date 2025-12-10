@@ -1,4 +1,4 @@
-## Kickoff Meetings
+## Next Meetings
 
 The next scheduled meetings are:
 
