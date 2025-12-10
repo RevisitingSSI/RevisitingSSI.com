@@ -1,6 +1,6 @@
 ---
-title: "Revisiting SSI: Kickoff Meeting (12/2/2025)"
-tagline: "+ Asia Kickoff (12/9/2025)"
+title: "Revisiting SSI: Kickoff Meetings"
+tagline: "December 2 & 9, 2025"
 permalink: /meetings/2025-12-kickoff/
 date: 2025-12-09
 sidebar:
