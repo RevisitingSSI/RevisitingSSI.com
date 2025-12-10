@@ -36,7 +36,6 @@ _See the [archives](/meetings/archives/) for all past meetings._
 
 Beyond the kickoff, we will hold regular community meetings throughout Phase 1:
 - **Frequency**: Biweekly (every two weeks)
-- **Tentative dates**: December 16th, January 6th, January 20th (times alternating between Americas, Europe and Africa and Asia-Pacific, Europe and Africa sessions)
 - **Format**: Working sessions focused on cross-Circle dialogue, feedback on emerging briefs, and collaborative problem-solving
 - **Duration**: 90 minutes
 
