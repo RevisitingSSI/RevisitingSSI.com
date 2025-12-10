@@ -17,10 +17,18 @@ The first Revisiting SSI meeting, on **December 2, 2025**, was a kickoff with a 
 <table width="100%">
   <tr>
     <td width="640px">
-      <b>Video:</b>
+      <b>Kickoff #1:</b>
 
 {% include video id="vq_rK-sQlkI" provider="youtube" %}
 
+<center>[ <a href="/meetings/2025-12-kickoff/transcript/">transcript</a> ]</center>
+    </td>
+    <td width="640px">
+      <b>Kickoff #2:</b>
+
+{% include video id="j7xXGdlMPn4" provider="youtube" %}
+
+<center>[ <a href="/meetings/2025-12-kickoff/transcript2/">transcript</a> ]</center>
     </td>
     <td width="640px">
       <b>Slides:</b>
@@ -30,8 +38,6 @@ The first Revisiting SSI meeting, on **December 2, 2025**, was a kickoff with a 
     </td>
   </tr>
 </table>
-
-_Also see the [transcript](/meetings/2025-12-kickoff/transcript/) for more._
 
 > **Want to participate?** You don't need to have attended this meeting. Working circles are forming now and welcome new contributors. [Learn how to join →](/join/)
 
