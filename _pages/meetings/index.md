@@ -34,12 +34,13 @@ _See the [archives](/meetings/archives/) for all past meetings._
 
 ## Future Meetings
 
-Beyond the kickoff, we will hold regular community meetings throughout Phase 1:
-- **Frequency**: Biweekly (every two weeks)
+All-hands meetings are expected to be:
+
+- **Frequency**: Monthly (last week of the month)
 - **Format**: Working sessions focused on cross-Circle dialogue, feedback on emerging briefs, and collaborative problem-solving
 - **Duration**: 90 minutes
 
-Final dates and Zoom links will be shared through Signal and email channels. Working Circles will also meet independently on schedules they determine.
+Final dates and Zoom links will be shared through Signal and email channels.
 
 Community meetings will use Zoom with accessibility features available on request. **Transcripts and video recordings** will be provided within a few days after each meeting for those who cannot attend synchronously or need to review discussions.
 
