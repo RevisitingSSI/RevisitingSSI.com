@@ -1,8 +1,8 @@
 ## Next Meetings
 
-The next scheduled meetings are:
+The next scheduled all-hands meetings are:
 
-* January 13, 10am PST (America/Europe/Africa)
-* January 14, 3pm JST (Asia/Europe)
+* January 13, 10am PST, 7pm CET (America/Europe/Africa)
+* January 14, 3pm JST, 7am CET (Asia/Europe)
 
-Christopher is also available for follow-on meetings on December 16 (either timezone) and January 6 (Americas, Europe and Africa only). Let [him know](mailto:ChristopherA@LifeWithAlacrity.com) if you'd like his participation in a group.
+These are working circle formation meetings. After that, all-hands meetings will continue the last week of each month, January through April, and working circles can schedule their own meetings beginning in February
