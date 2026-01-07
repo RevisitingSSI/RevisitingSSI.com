@@ -24,7 +24,7 @@ See ["Join Us"](/join/) for more information on participation.
 
 ## Phase 1 Goals
 
-Our goals in Phase 1 are to:
+In Phase 1, we will come together in individual [Working Circles](/circles/) and at all-hand meetings to:
 
 - **Map the problem space** through interdisciplinary perspectives
 - **Explore new lenses** that reveal blind spots or opportunities
