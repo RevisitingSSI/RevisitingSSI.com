@@ -1,6 +1,6 @@
 ---
 title: "Revisiting SSI: Forming Lenses Meetings"
-tagline: "Americas/Europe/Africa LLM Transcript"
+tagline: "Asia/Europe LLM Transcript"
 permalink: /meetings/2026-01-lenses/transcript2/
 date: 2026-01-14
 sidebar:
