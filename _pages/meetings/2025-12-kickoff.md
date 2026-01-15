@@ -10,21 +10,20 @@ sidebar:
     - othersites
 ---
 
-The first Revisiting SSI meeting, on **December 2, 2025**, was a kickoff with a time friendly for participants in the Americas, Africa, and Europe. The second one, on **December 9, 2025** then offered an Asia-friendly time.
-
+The first Revisiting SSI meeting, a kickoff, occurred on **December 2, 2025** for participants in the Americas, Africa, and Europe and on **December 9, 2025** for Asian (and European) participants.
 ## Media & Slides
 
 <table width="100%">
   <tr>
     <td width="640px">
-      <b>Kickoff #1:</b>
+      <b>Kickoff Americas, et. al.:</b>
 
 {% include video id="vq_rK-sQlkI" provider="youtube" %}
 
 <center>[ <a href="/meetings/2025-12-kickoff/transcript1/">transcript</a> ]</center>
     </td>
     <td width="640px">
-      <b>Kickoff #2:</b>
+      <b>Kickoff Asia, et. al.:</b>
 
 {% include video id="j7xXGdlMPn4" provider="youtube" %}
 
