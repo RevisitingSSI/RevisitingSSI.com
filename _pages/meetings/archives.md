@@ -14,11 +14,11 @@ sidebar:
  <tr>
     <td>
 
-      <a href="/meetings/2025-12-kickoff/"><img src="https://img.youtube.com/vi/fz0ixcE-2nA/0.jpg" width="300px" style="border: 1px solid blue"></a>
+      <a href="/meetings/2026-01-lenses/"><img src="https://img.youtube.com/vi/fz0ixcE-2nA/0.jpg" width="300px" style="border: 1px solid blue"></a>
 
     </td>
     <td>
-       <h2><a href="/meetings/2025-12-kickoff/">Lenses Meetings (Early January 2026)</a></h2>
+       <h2><a href="/meetings/2026-01-lenses/">Lenses Meetings (Early January 2026)</a></h2>
 
        <p>Philosophical & technical discussions of SSI, en route to creating working groups.</p>
        
