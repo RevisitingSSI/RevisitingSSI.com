@@ -36,6 +36,8 @@ otherfiles:
     children:
     - title: "SSI Principles"
       url: /library/ssi-principles/
+    - title: "SSI Principles (2026 Redline)"
+      url: /library/ssi-principles-2026-redline/
     - title: "Code of Conduct"
       url: /conduct/
 othersites:
