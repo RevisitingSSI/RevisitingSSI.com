@@ -2,39 +2,38 @@
 title: "Self-Sovereign Identity: Ten Years Later"
 tagline: "A Time to Reassess"
 permalink: /
-date: 2025-12-03
+date: 2026-04-26
 ---
 
 Welcome to the **Revisiting Self-Sovereign Identity (SSI) Principles** series of online workshops.
 
 This initiative marks the ten-year anniversary of the original SSI principles in 2016. In the decade since their publication, SSI has evolved from a provocative idea into infrastructure deployed by governments, companies, communities, and open protocols. At the same time, the sociotechnical environment around identity has been transformed by new technologies and new platform models that challenge the assumptions of 2016.
 
-The moment is right for us to ask:
+## Preliminary Revised Principles (First Draft)
 
-* **What has worked?**
-* **What has drifted?**
-* **What harms or risks have emerged?**
-* **And what must evolve for SSI's next decade?**
+On April 26, 2026 — ten years to the day after the original publication — we released the first community draft of revised SSI principles for public review:
 
-This project is a **multi-phase, year-long effort** to reassess, update, and strengthen the [Ten Principles of SSI](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity).
+**[Principles of Self-Sovereign Identity (2026 Revised - First Draft)](https://docs.google.com/document/d/1P13Wy1plHWXIonErNXSG8R-n9L4fWTtUzglAcObNSXs/)**
+
+The draft retains the 2016 language verbatim wherever it survives, revises the original ten principles, and introduces six new principles — **Inalienability, Cognitive Liberty, Relational Autonomy, Stewardship, Equity, and Anti-Coercive Design** — organized alongside the originals into four layers: foundational, relational, technical, and political.
+
+It is published in redline form, deliberately unfinished, as a starting point for community iteration. Background and rationale for each change lives at [/lenses/](/lenses/briefs/).
 
 {% include channels.md %}
 
 See ["Join Us"](/join/) for more information on participation.
 
-## Phase 1 Goals
+## What We Did in Phase 1
 
-In Phase 1, we will come together in individual [Working Circles](/circles/) and at all-hand meetings to:
+From December 2025 through April 2026, working circles met to:
 
-- **Map the problem space** through interdisciplinary perspectives
-- **Explore new lenses** that reveal blind spots or opportunities
-- **Develop brief scoping papers** (Lens Exploration Briefs) that seed deeper research and technical work
-- **Surface emerging harms, risks, and tensions** in digital identity systems
-- **Build shared understanding** across diverse backgrounds
-- **Move toward rough consensus** on worthy insights about the principles
-- **Inform** both an updated set of SSI principles *and* other high-level strategies for reducing societal harms from digital identity systems
+- Map the problem space through interdisciplinary perspectives
+- Develop Lens Exploration Briefs (scoping papers) to seed deeper work
+- Surface emerging harms, risks, and tensions in digital identity systems
+- Build shared understanding across law, philosophy, cryptography, design, and civil society
+- Move toward rough consensus on insights worth carrying into the principle revisions
 
-We are **not** writing standards, specifications, protocols, or product designs at this stage. We are instead engaging in *high-level conceptual, ethical, and strategic inquiry*, the groundwork on which principled SSI work must rest.
+That work produced the preliminary redlines linked above. We are **not** writing standards, specifications, protocols, or product designs. We are engaged in high-level conceptual, ethical, and strategic inquiry — the groundwork on which principled SSI work must rest.
 
 {% include current-meetings.md %}
 
@@ -49,4 +48,3 @@ Christopher is the founder and moderator of the **Rebooting the Web of Trust** w
 For more information: [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com)
 
 {% include sponsors.md %}
-
