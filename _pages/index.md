@@ -17,7 +17,7 @@ On April 26, 2026 — ten years to the day after the original publication — we
 
 A stable archival copy of the redline is also mirrored on this site at [SSI Principles (2026 Redline)](/library/ssi-principles-2026-redline/).
 
-The draft retains the 2016 language verbatim wherever it survives, revises the original ten principles, and introduces six new principles — **Inalienability, Cognitive Liberty, Relational Autonomy, Stewardship, Equity, and Anti-Coercive Design** — organized alongside the originals into four layers: foundational, relational, technical, and political.
+The draft retains the 2016 language verbatim wherever it survives, revises the original ten principles, and introduces six new principles (**Inalienability, Cognitive Liberty, Relational Autonomy, Stewardship, Equity, and Anti-Coercive Design**), which are organized alongside the originals into four layers: foundational, relational, technical, and political.
 
 It is published in redline form, deliberately unfinished, as a starting point for community iteration. Background and rationale for each change lives at [/lenses/](/lenses/briefs/).
 
