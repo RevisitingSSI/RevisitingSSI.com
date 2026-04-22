@@ -13,7 +13,9 @@ This initiative marks the ten-year anniversary of the original SSI principles in
 
 On April 26, 2026 — ten years to the day after the original publication — we released the first community draft of revised SSI principles for public review:
 
-**[Principles of Self-Sovereign Identity (2026 Revised - First Draft)](https://docs.google.com/document/d/1P13Wy1plHWXIonErNXSG8R-n9L4fWTtUzglAcObNSXs/)**
+**[Principles of Self-Sovereign Identity (2026 Revised - First Draft)](https://docs.google.com/document/d/1P13Wy1plHWXIonErNXSG8R-n9L4fWTtUzglAcObNSXs/)** (commentable)
+
+A stable archival copy of the redline is also mirrored on this site at [SSI Principles (2026 Redline)](/library/ssi-principles-2026-redline/).
 
 The draft retains the 2016 language verbatim wherever it survives, revises the original ten principles, and introduces six new principles — **Inalienability, Cognitive Liberty, Relational Autonomy, Stewardship, Equity, and Anti-Coercive Design** — organized alongside the originals into four layers: foundational, relational, technical, and political.
 
