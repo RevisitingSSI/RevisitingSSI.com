@@ -19,6 +19,14 @@ The draft retains the 2016 language verbatim wherever it survives, revises the o
 
 It is published in redline form, deliberately unfinished, as a starting point for community iteration. Background and rationale for each change lives at [/lenses/](/lenses/briefs/).
 
+## How to Participate
+
+The project runs as an ongoing community effort. Several ways to engage:
+
+- **Signal group** — [join the private working group](https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a). Working circles coordinate here, meeting links are shared here, and discussion continues between calls.
+- **GitHub Discussions** — [RevisitingSSI/Community](https://github.com/RevisitingSSI/Community/discussions) for threaded conversations on lens briefs and principle-specific topics.
+- **Revisiting SSI community discussion — May 20, 2026**, 10am PDT / 7pm CEST (Americas, Europe and Africa). A dedicated call to walk through the preliminary redlines together. Zoom access shared via the Signal group and email announcement list.
+
 {% include channels.md %}
 
 See ["Join Us"](/join/) for more information on participation.
