@@ -31,3 +31,18 @@ hr {
 
 // Layout width
 $max-width: 90%;
+
+// Redline styling for the 2026 revised principles page
+// Deletions: strike-through + muted; insertions: green tint + underline
+del, s {
+  text-decoration: line-through;
+  text-decoration-thickness: 1.5px;
+  opacity: 0.6;
+}
+
+ins {
+  text-decoration: none;
+  background-color: rgba(76, 175, 80, 0.18);
+  border-bottom: 1px solid rgba(76, 175, 80, 0.55);
+  padding: 0 2px;
+}
