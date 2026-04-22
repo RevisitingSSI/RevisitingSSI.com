@@ -2,7 +2,7 @@
 title: "Self-Sovereign Identity: Ten Years Later"
 tagline: "A Time to Reassess"
 permalink: /
-date: 2026-04-26
+date: 2026-04-22
 ---
 
 Welcome to the **Revisiting Self-Sovereign Identity (SSI) Principles** series of online workshops.

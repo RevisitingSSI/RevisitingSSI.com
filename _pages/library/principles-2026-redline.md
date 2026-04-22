@@ -3,7 +3,7 @@ title: "Principles of Self-Sovereign Identity — 2026 Revised (First Community 
 tagline: "A Redline Against the Original 'Ten Principles of SSI' (2016)"
 permalink: /library/ssi-principles-2026-redline/
 status: draft
-date: 2026-04-26
+date: 2026-04-22
 ---
 
 This page is the static snapshot of the first community draft of a 2026 revision of the original SSI principles, published on the ten-year anniversary of ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/). The 2016 language is preserved verbatim wherever it survives; changes are shown inline so that continuity and revision are both legible.
