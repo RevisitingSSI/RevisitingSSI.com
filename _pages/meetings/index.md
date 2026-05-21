@@ -20,7 +20,7 @@ sidebar:
 
     </td>
     <td>
-       <h2><a href="/meetings/2026-05-tech/">Tech Meeting (May 2026)</a></h2>
+       <h2><a href="/meetings/2026-05-tech/">Tech Principles (May 2026)</a></h2>
 
        <p>A discussion of the five technical principles of self-sovereign identity.</p>
        
