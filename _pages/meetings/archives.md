@@ -14,6 +14,19 @@ sidebar:
  <tr>
     <td>
 
+      <a href="/meetings/2026-05-tech/"><img src="https://img.youtube.com/vi/r5lI4kjtjFY/0.jpg" width="300px" style="border: 1px solid blue"></a>
+
+    </td>
+    <td>
+       <h2><a href="/meetings/2026-01-lenses/">Tech Meetings (May 2026)</a></h2>
+
+       <p>A discussion of the five technical principles of self-sovereign identity.</p>
+       
+    </td>
+  </tr>
+  <tr>
+    <td>
+
       <a href="/meetings/2026-01-lenses/"><img src="https://img.youtube.com/vi/fz0ixcE-2nA/0.jpg" width="300px" style="border: 1px solid blue"></a>
 
     </td>
