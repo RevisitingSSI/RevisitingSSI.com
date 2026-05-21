@@ -18,9 +18,22 @@ sidebar:
 
     </td>
     <td>
-       <h2><a href="/meetings/2026-01-lenses/">Tech Meetings (May 2026)</a></h2>
+       <h2><a href="/meetings/2026-05-tech/">Tech Meetings (May 2026)</a></h2>
 
        <p>A discussion of the five technical principles of self-sovereign identity.</p>
+       
+    </td>
+  </tr>
+ <tr>
+    <td>
+
+      <a href="/meetings/2026-05-ccg/"><img src="https://developer.blockchaincommons.com/assets/pdfs/2026-05-rssi-ccg-thumbnail.jpg" width="300px" style="border: 1px solid blue"></a>
+
+    </td>
+    <td>
+       <h2><a href="/meetings/2026-05-ccg/">CCG Presentation (Early May 2026)</a></h2>
+
+       <p>A presentation of the redline draft of the principles to the W3C CCG.</p>
        
     </td>
   </tr>
