@@ -90,7 +90,7 @@ Christopher proposed Wednesday, July 8, 2026 for the next meeting; nods from all
 
 ## Resources Shared
 
-See [`2026-06-17-communitymeeting-links.md`](/meetings/2026-06-principles/transcript/) for the full list. Highlights:
+See [the meeting links page](/meetings/2026-06-principles/transcript/) for the full list. Highlights:
 
 - Volunteer principle drafts: [Portability](https://docs.google.com/document/d/1oQqUjUBzlxSIVuQM-LbeigGHhaSQlhLCXNuEJTQf7V4/edit?tab=t.0), [Minimization](https://docs.google.com/document/d/1c6GNN7I7diwQDNGsO31ynzw-cCq-jZbWk7_3zeuDZqM/edit?tab=t.0), [Persistence](https://docs.google.com/document/d/1w1QaMz4J9G1eUnko3Iuj6XEVQaR08Bvc6NINuUx6Oso/edit?tab=t.0), and an [inalienability revision](https://docs.google.com/document/d/106yDPTCzkuBHq9mJRKkZgUj90nROS5yN9Wzohl9HlV4/edit?tab=t.0)
 - [Technology Paternalism (Kosma Connect)](https://www.kosmaconnect.net/interactionblog/technologypaternalism) and [Self-Sovereign Computing](https://www.lifewithalacrity.com/article/self-sovereign-computing/)
