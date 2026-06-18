@@ -16,17 +16,17 @@ sidebar:
  <tr>
     <td>
 
-      <a href="/meetings/2026-05-tech/"><img src="https://img.youtube.com/vi/r5lI4kjtjFY/0.jpg" width="300px" style="border: 1px solid blue"></a>
+      <a href="/meetings/2026-06-principles/"><img src="https://img.youtube.com/vi/Fvoms1SggWo/0.jpg" width="300px" style="border: 1px solid blue"></a>
 
     </td>
     <td>
-       <h2><a href="/meetings/2026-05-tech/">Tech Principles (May 2026)</a></h2>
+       <h2><a href="/meetings/2026-06-principles/">More Principles (June 2026)</a></h2>
 
-       <p>A discussion of the five technical principles of self-sovereign identity.</p>
+       <p>A recview of portability, interoperability, and persistence, plus a look at various things of topical interest.</p>
        
     </td>
   </tr>
-  </table>  
+</table>  
 
 _See the [archives](/meetings/archives/) for all past meetings._
 
