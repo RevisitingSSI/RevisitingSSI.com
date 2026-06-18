@@ -2,7 +2,7 @@
 title: "Revisiting SSI: More Principles"
 tagline: "June 17, 2026"
 permalink: /meetings/2026-06-principles/transcript/
-date: 2026-05-20
+date: 2026-06-17
 sidebar:
   nav:
     - otherfiles
