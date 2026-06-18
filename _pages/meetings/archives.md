@@ -14,6 +14,19 @@ sidebar:
  <tr>
     <td>
 
+      <a href="/meetings/2026-06-principles/"><img src="https://img.youtube.com/vi/Fvoms1SggWo/0.jpg" width="300px" style="border: 1px solid blue"></a>
+
+    </td>
+    <td>
+       <h2><a href="/meetings/2026-06-principles/">More Principles (June 2026)</a></h2>
+
+       <p>A recview of portability, interoperability, and persistence, plus a look at various things of topical interest.</p>
+       
+    </td>
+  </tr>
+ <tr>
+    <td>
+
       <a href="/meetings/2026-05-tech/"><img src="https://img.youtube.com/vi/r5lI4kjtjFY/0.jpg" width="300px" style="border: 1px solid blue"></a>
 
     </td>
