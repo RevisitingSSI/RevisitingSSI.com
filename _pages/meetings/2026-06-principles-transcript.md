@@ -1,5 +1,5 @@
 ---
-title: "Revisiting SSI: More Principles"
+title: "Revisiting SSI: More Principles Transcript"
 tagline: "LLM-Cleaned Transcript"
 permalink: /meetings/2026-06-principles/transcript/
 date: 2026-05-20
