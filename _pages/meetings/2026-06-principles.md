@@ -23,7 +23,7 @@ The Revisiting SSI meeting hold on **June 17, 2026** focused on a variety of top
 
 {% include video id="Fvoms1SggWo" provider="youtube" %}
 
-<center>[ <a href="/meetings/principles/transcript/">transcript</a> ]</center>
+<center>[ <a href="/meetings/2026-06-principles/transcript/">transcript</a> ]</center>
     </td>
   </tr>
 </table>
