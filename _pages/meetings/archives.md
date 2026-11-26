@@ -20,7 +20,7 @@ sidebar:
     <td>
        <h2><a href="/meetings/2026-06-principles/">More Principles (June 2026)</a></h2>
 
-       <p>A recview of portability, interoperability, and persistence, plus a look at various things of topical interest.</p>
+       <p>A review of portability, interoperability, and persistence, plus a look at various things of topical interest.</p>
        
     </td>
   </tr>
