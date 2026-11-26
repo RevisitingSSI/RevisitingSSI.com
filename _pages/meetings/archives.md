@@ -14,6 +14,19 @@ sidebar:
  <tr>
     <td>
 
+      <a href="/meetings/2026-08-gdc/"><img src="/assets/pdfs/20260801-gdc.jpg" width="300px" style="border: 1px solid blue"></a>
+
+    </td>
+    <td>
+       <h2><a href="/meetings/2026-08-gdc/">GDC 26 (September 2026)</a></h2>
+
+       <p>A presentation on "Self-Sovereign Identity: The Next Ten Years" for GDC 26 in Geneva, Switzerland</p>
+       
+    </td>
+  </tr>
+ <tr>
+    <td>
+
       <a href="/meetings/2026-06-principles/"><img src="https://img.youtube.com/vi/Fvoms1SggWo/0.jpg" width="300px" style="border: 1px solid blue"></a>
 
     </td>
